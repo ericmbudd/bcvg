@@ -7,7 +7,10 @@
   "type": "commonjs",
   "scripts": {
     "start": "node src/index.js",
-    "export": "node src/index.js"
+    "export": "node src/index.js",
+    "copy-guide": "node src/copy-guide.js",
+    "update-guide": "node src/update-guide.js",
+    "update-markdown": "node src/update-markdown.js"
   },
   "dependencies": {
     "@tryghost/admin-api": "^1.14.10",
