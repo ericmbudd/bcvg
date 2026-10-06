@@ -48,7 +48,7 @@ function changeContext(before, after, windowSize = 40) {
 
 async function updateGuide() {
   const args = parseArgs(process.argv.slice(2));
-  const slug = argValue(args.slug) || 'election-guide-2026';
+  const slug = argValue(args.slug) || 'election-guide';
   const dryRun = Boolean(args['dry-run']);
   const publish = Boolean(args.publish);
   const includeHtmlCards = Boolean(args['include-html-cards']);

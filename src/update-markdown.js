@@ -30,8 +30,8 @@ function findMarkdownCards(node) {
 
 async function updateMarkdown() {
   const args = parseArgs(process.argv.slice(2));
-  const slug = argValue(args.slug) || 'election-guide-2026';
-  const file = argValue(args.file) || 'outline-2026.md';
+  const slug = argValue(args.slug) || 'election-guide';
+  const file = argValue(args.file) || '2026/outline-2026.md';
   const dryRun = Boolean(args['dry-run']);
 
   const filePath = path.resolve(process.cwd(), file);

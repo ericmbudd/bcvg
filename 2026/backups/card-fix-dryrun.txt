@@ -1,0 +1,62 @@
+Loaded posts "Election 2026 — Boulder Colorado Voter Guide" (updated_at=2026-10-04T18:43:06.000Z)
+heading ids found: 92
+links resolved: 54 | unresolved: none
+stray empty bullets removed: false
+
+--- new card markdown ---
+* [Federal, State & County Candidates](#federal-state-county-candidates)
+    * [Federal Offices](#federal-offices)
+        * [United States Senator](#united-states-senator): **John Hickenlooper**
+        * [Representative to the 120th United States Congress - District 2 (Vote for One)](#representative-to-the-120th-united-states-congressdistrict-2-vote-for-one): **Joe Neguse**
+    * [State Offices](#colorado-offices)
+        * [Governor/Lieutenant Governor (Vote for One Pair)](#governorlieutenant-governor-vote-for-one-pair): **Marx/Markert, Phil Weiser / Lesley Dahlkemper**
+        * [Secretary of State](#secretary-of-state): **Amanda Gonzalez**
+        * [State Treasurer](#state-treasurer): **Jeff Bridges**
+        * [Attorney General](#attorney-general): **Jena Griswold**
+        * [Regent of the University of Colorado - Congressional District 2](#regent-of-the-university-of-coloradocongressional-district-2): **Edie Hooton**
+        * [State Representative - District 10](#state-representativedistrict-10): **Junie Joseph**
+        * [Regional Transportation District Director - District O](#regional-transportation-district-directordistrict-o): **Jack Rosenthal**
+    * [County Offices](#boulder-county-offices)
+        * [Boulder County Commissioner - District 3](#boulder-county-commissionerdistrict-3): **Ashley Stolzmann**
+        * [Boulder County Clerk and Recorder](#boulder-county-clerk-and-recorder): **Molly Fitzpatrick**
+        * [Boulder County Treasurer](#boulder-county-treasurer): **Rachel Friend**
+        * [Boulder County Assessor](#boulder-county-assessor): **Cynthia Braddock**
+        * [Boulder County Sheriff](#boulder-county-sheriff): **Curtis Johnson**
+        * [Boulder County Surveyor](#boulder-county-surveyor): **Kayce D. W. Keane**
+        * [Boulder County Coroner](#boulder-county-coroner): **Jeff Martin**
+* [City of Boulder Offices](#city-of-boulder-offices)
+    * [City of Boulder Mayoral Candidates](#city-of-boulder-mayoral-candidates): **1 Aaron Brockett, 2 Taishya Adams**
+    * [City of Boulder Council Candidates](#city-of-boulder-council-candidates): **Ryan Schuchard, Jamillah Richmond, Sam Fuqua, Jill Adler Grano, Tina Marquis**
+* [Judicial Retention Questions](#judicial-retention-questions)
+    * [Colorado Supreme Court Justice](#colorado-supreme-court-justice): **Hood**
+    * [Colorado Court of Appeals Judge](#colorado-court-of-appeals-judge): **Freyre, Harris, Lum, Moultrie, Schock, Sullivan**
+    * [District Court Judge - 20th Judicial District](#district-court-judge20th-judicial-district): **Kotlarczyk, Larson, Salomone**
+    * [County Court Judge - Boulder](#county-court-judgeboulder): **Brodsky, Haenselman, Malkinson**
+* [State Ballot Measures](#state-ballot-measures)
+    * [Amendment 81 (CONSTITUTIONAL)](#amendment-81-constitutional-no-against): **Law enforcement immigration notification**
+    * [Amendment 82 (CONSTITUTIONAL)](#amendment-82-constitutional-no-against): **Right to purchase and sell natural gas**
+    * [Amendment 83 (CONSTITUTIONAL)](#amendment-83-constitutional-no-against): **Right to hunt and fish**
+    * [Amendment 84 (CONSTITUTIONAL)](#amendment-84-constitutional-no-against): **Mail ballot voter identification**
+    * [Amendment 85 (CONSTITUTIONAL)](#amendment-85-constitutional-no-against): **Plain language ballot titles**
+    * [Amendment 86 (CONSTITUTIONAL)](#amendment-86-constitutional-no-against): **Off-cycle congressional redistricting limits**
+    * [Amendment 87 (CONSTITUTIONAL)](#amendment-87-constitutional-yes-for): **Graduated income tax**
+    * [Proposition NN (STATUTORY)](#proposition-nn-statutory-yes-for): **K-12 education investment increase**
+    * [Proposition 132 (STATUTORY)](#proposition-132-statutory-no-against): **Fentanyl penalties**
+    * [Proposition 133 (STATUTORY)](#proposition-133-statutory-no-against): **Human trafficking of a minor penalties**
+    * [Proposition 134 (STATUTORY)](#proposition-134-statutory-no-against): **Sports participation by sex**
+    * [Proposition 135 (STATUTORY)](#proposition-135-statutory-no-against): **Prohibit surgery on minors**
+    * [Proposition 136 (STATUTORY)](#proposition-136-statutory-no-against): **Income tax rate cap at 4.4%**
+    * [Proposition 137 (STATUTORY)](#proposition-137-statutory-no-against): **Conservation funding from sporting goods sales tax**
+* [Boulder County Ballot Measures](#boulder-county-ballot-measures)
+    * [Boulder County Ballot Issue 1A](#boulder-county-ballot-issue-1a-yes-for): **Early childhood care and education mill levy increase**
+    * [Boulder County Ballot Question 200](#boulder-county-ballot-question-200-no-position): **Expand county commission to five members**
+    * [Boulder County Ballot Question 201](#boulder-county-ballot-question-201-option-b): **Commission election structure if 200 passes**
+* [City of Boulder Ballot Measures](#city-of-boulder-ballot-measures)
+    * [City of Boulder Ballot Issue 2J](#city-of-boulder-ballot-issue-2j-yes-for): **Residential vacancy excise tax**
+    * [City of Boulder Ballot Issue 2K](#city-of-boulder-ballot-issue-2k-yes-for): **Recreation and Safety Bond**
+    * [City of Boulder Ballot Question 2L](#city-of-boulder-ballot-question-2l-yes-for): **Firefighter collective bargaining**
+    * [City of Boulder Ballot Question 2M](#city-of-boulder-ballot-question-2m-yes-for): **Debt limit charter change**
+* [Front Range Passenger Rail District](#front-range-passenger-rail-district)
+    * [Front Range Passenger Rail District Ballot Issue 7A](#front-range-passenger-rail-district-ballot-issue-7a-yes-for): **Sales tax for Front Range passenger rail**
+
+Dry run - nothing saved. Re-run with --push to apply.

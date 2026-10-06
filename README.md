@@ -37,14 +37,14 @@ npm run copy-guide
 Options (all optional, defaults shown):
 
 - `--from`: Source page slug, defaults to `election-guide`
-- `--to`: Target page slug, defaults to `election-guide-2026`
+- `--to`: Target page slug, defaults to `election-guide`
 - `--title`: New page title, defaults to the source title with `2025` replaced by `2026`
 - `--status`: `draft` (default) or `published`
 
 Example:
 
 ```bash
-npm run copy-guide -- --from election-guide --to election-guide-2026 --title "2026 Boulder County Voter Guide" --status published
+npm run copy-guide -- --from election-guide --to election-guide --title "2026 Boulder County Voter Guide" --status published
 ```
 
 The script refuses to overwrite an existing target. By default the copy is created as a draft - open it in Ghost Admin to review and publish.
@@ -59,7 +59,7 @@ npm run update-guide
 
 Options:
 
-- `--slug`: Target slug, defaults to `election-guide-2026`
+- `--slug`: Target slug, defaults to `election-guide`
 - `--replace OLD:NEW`: Replacement to apply, repeatable (e.g. `--replace 2025:2026 --replace "Boulder Valley:St. Vrain"`)
 - `--publish`: Also publish the post/page if it is a draft
 - `--dry-run`: Show what would change without saving anything
@@ -79,7 +79,7 @@ Review the `--dry-run` output before applying: literal dates that should stay in
 
 ## Push the markdown outline card
 
-Replaces the content of a post/page's markdown card from a local markdown file. The 2026 guide's outline lives in `outline-2026.md` in the repo root - edit it, then push it:
+Replaces the content of a post/page's markdown card from a local markdown file. The 2026 guide's outline lives in `2026/outline-2026.md` (built from `2026/2026 Boulder Colorado Voter Guide Sample Ballot.md`, the source of truth) - edit it, then push it:
 
 ```bash
 npm run update-markdown
@@ -87,11 +87,27 @@ npm run update-markdown
 
 Options:
 
-- `--slug`: Target slug, defaults to `election-guide-2026`
+- `--slug`: Target slug, defaults to `election-guide`
 - `--file`: Markdown file, defaults to `outline-2026.md`
 - `--dry-run`: Preview without saving
 
 The markdown card is only replaced - all other content in the post is untouched, and the card stays fully editable in the Ghost editor.
+
+## Rebuild the body sections
+
+> **Read [`2026/UPDATE-METHODS.md`](2026/UPDATE-METHODS.md) first.** The live Ghost post
+> is the source of truth and contains editor-authored content that is not in
+> `sections-data.js`. A full rebuild replaces everything between the summary card and the
+> closing section and will delete editor-only content (a pre-edit backup is written to
+> `2026/backups/` automatically). For sources/link updates only, use the non-destructive
+> `node merge-sources.js` instead (dry run by default; `--push` to apply).
+
+Replaces the body sections between the summary (markdown) card and the closing "Thank you" section with sections for every ballot item in the outline: candidate races grouped Federal/State/County, judicial retention questions, and one section per ballot measure with the verbatim ballot question (from `2026/2026 Boulder Colorado Voter Guide Sample Ballot.md`), a plain-language summary, and a sources list. Content comes from `2026/sections-data.js`; all generated nodes are native editor content (no HTML).
+
+```bash
+npm run update-sections -- --dry-run   # preview the section outline
+npm run update-sections
+```
 
 The script writes a CSV file with these columns:
 

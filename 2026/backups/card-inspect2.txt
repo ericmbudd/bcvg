@@ -1,0 +1,29 @@
+=== markdown card (chars 3000+) ===
+ [Proposition 137 (STATUTORY)](#): **Conservation funding from sporting goods sales tax**
+* [Boulder County Ballot Measures](https://bouldercoloradovoterguide.com/#boulder-county-ballot-measures)
+    * [Boulder County Ballot Issue 1A](#): **Early childhood care and education mill levy increase**
+    * [Boulder County Ballot Question 200](#): **Expand county commission to five members**
+    * [Boulder County Ballot Question 201](#): **Commission election structure if 200 passes**
+* [City of Boulder Ballot Measures](https://bouldercoloradovoterguide.com/#city-of-boulder-ballot-measures)
+    * [City of Boulder Ballot Issue 2J](#): **Residential vacancy excise tax**
+    * [City of Boulder Ballot Issue 2K](#): **Recreation and Safety Bond**
+    * [City of Boulder Ballot Question 2L](#): **Firefighter collective bargaining**
+    * [City of Boulder Ballot Question 2M](#): **Debt limit charter change**
+* [Front Range Passenger Rail District](#)
+    * [Front Range Passenger Rail District Ballot Issue 7A](#): **Sales tax for Front Range passenger rail**
+
+
+=== rendered html heading check ===
+heading tags: 190
+   <h3 id="about-boulder-colorado-voter-guide-and-disclosures">
+   <h2 id="voter-guide-2026">
+   <h3 id="november-3rd-2026-general-election-in-boulder-colorado">
+   <h2 id="federal-state-county-candidates">
+   <h3 id="federal-offices">
+   <h4 id="united-states-senator">
+   <h4 id="representative-to-the-120th-united-states-congressdistrict-2-vote-for-one">
+   <h3 id="colorado-offices">
+   <h4 id="governorlieutenant-governor-vote-for-one-pair">
+   <h4 id="additional-reporting-commentary-and-sources">
+any id= on headings: true
+hash links in rendered html: 50 [ 'href="#"', 'href="#"', 'href="#"', 'href="#"', 'href="#"' ]

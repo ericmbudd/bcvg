@@ -1,0 +1,105 @@
+Loaded posts "Election 2026 — Boulder Colorado Voter Guide" updated_at=2026-10-04T16:50:54.000Z
+total nodes: 617
+
+===== IMAGES =====
+[240] under "Analysis and Commentary:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-9403cdfe-b9ce-4fcb-9f9e-c8c7ecf0f52d.png
+   alt: ""
+   caption: (none)
+   prev: Here is a table from the Colorado Blue Book for Amendment 87 that outlines income brackets and the marginal in
+   next: Based on previous tax analysis, 97% of taxpayers would receive a tax cut under this new system. If you prefer 
+[259] under "Analysis and Commentary:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-77ce24d9-db92-4fbe-a77c-4ff5e57c9525.png
+   alt: ""
+   caption: (none)
+   prev: Here’s how Proposition NN would allow a higher revenue cap for use with education, per the Colorado Blue Book:
+   next: Importantly, increasing the TABOR cap through Proposition NN would allow the state to dedicate more money to K
+[289] under "Analysis and Commentary:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-a9ca35e5-c4e6-464d-aea3-ad48ee628376.jpeg
+   alt: ""
+   caption: (none)
+   prev: Lastly, if you are not already convinced, I will give you my most powerful argument: even people on Boulder Ne
+   next: 
+[290] under "Analysis and Commentary:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-e9f9af2d-c3af-4f27-b060-c49dc1ac5651.jpeg
+   alt: ""
+   caption: (none)
+   prev: 
+   next: 
+[291] under "Analysis and Commentary:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-6812711d-7c5a-4e4b-940f-8873a091cb18.jpeg
+   alt: ""
+   caption: (none)
+   prev: 
+   next: Additional Reporting, Commentary, and Sources
+[306] under "Analysis and Commentary:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-f2534418-5f9b-447d-8314-a1254d09c8a8.png
+   alt: ""
+   caption: (none)
+   prev: Additionally, “Proposition 133 increases the penalty for child sex trafficking to life in prison without the p
+   next: Proposition 133 relies on our worst instincts to enact unhelpful tough-on-crime sentencing and will not make u
+[439] under "Possible Option A:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-166c0cfa-3ca4-4e71-acfc-479d34708ee6.png
+   alt: ""
+   caption: (none)
+   prev: Should all five commissioners be elected by voters in their respective districts?
+   next: Above is a map of the current three Boulder County Commissioner districts. Here are a number of problems with 
+[442] under "Possible Option A:"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-c236c048-3b74-41ad-b25f-c3cced882627.png
+   alt: ""
+   caption: (none)
+   prev: Boulder County has three population centers. It’s not clearly possible to map these three population centers o
+   next: Possible Option B:
+[497] under "What if we made the bond smaller?"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-a6ffb9ca-82e5-484b-99f3-4919d7e87eb3.png
+   alt: ""
+   caption: (none)
+   prev: The City of Boulder polled on the measure in June and found the public split on whether to support the bond. H
+   next: The city has outlined project start timelines based on priority, so a reduced bond would target those projects
+[504] under "What if we made the bond smaller?"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-6fe6b222-2b29-427f-89b8-0fa7a308efbe.png
+   alt: ""
+   caption: (none)
+   prev: In an opinion piece from former Boulder Representative and City council person KC Becker asking for more proce
+   next: I have a couple issues with this framing. Part of it is what I already said — TABOR will give the incentives f
+[582] under "What would Issue 7A do and why do we need it?"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-a48819f1-0cb5-46b4-b911-a22126398d05.png
+   alt: ""
+   caption: (none)
+   prev: Issue 7A would institute a sales tax along the Front Range Passenger Rail district, which will serve as the pr
+   next: Here’s a quick fact sheet on the district:
+[586] under "What would Issue 7A do and why do we need it?"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-113866d9-297b-4aee-9d90-352da31c57a6.png
+   alt: ""
+   caption: (none)
+   prev: From an election perspective, state legislators made a smart choice to update the district boundaries before p
+   next: As far as service and number of trips, that is why Issue 7A is so important. Here is an explanation of the dif
+[588] under "What would Issue 7A do and why do we need it?"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-95f06986-a714-414c-ba13-bcf388423759.png
+   alt: ""
+   caption: (none)
+   prev: As far as service and number of trips, that is why Issue 7A is so important. Here is an explanation of the dif
+   next: As far as why we need better train infrastructure, here are my main interests:
+[602] under "How would 7A benefit Boulder and Denver specifically?"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-54437453-de60-42a2-901c-5804d6fa7626.png
+   alt: ""
+   caption: (none)
+   prev: Boulder has pretty excellent transit service along the US 36 / Broadway corridor, but its service to East Boul
+   next: Denver is already well-served as the best transit hub in Colorado, but things can still get better. As an anch
+[605] under "How would 7A benefit Boulder and Denver specifically?"
+   src: https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-fd3248ca-2bf3-4a99-a384-969fcc5c4338.jpeg
+   alt: ""
+   caption: (none)
+   prev: I’m also excited to see Colorado sports teams stepping up to endorse Issue 7A, as Denver has a significant reg
+   next: 
+
+===== PLAIN-TEXT SOCIAL URLS =====
+[182] (paragraph) under "Thank you"
+   URL: https://youtu.be/NKSG_4d-JKQ?si=W1HE9UOYNeWGg9wc
+   text: https://youtu.be/NKSG_4d-JKQ?si=W1HE9UOYNeWGg9wc
+[336] (paragraph) under "Thank you"
+   URL: https://bsky.app/profile/votehub.com/post/3mwjxsgptr22l
+   text: https://bsky.app/profile/votehub.com/post/3mwjxsgptr22l
+[368] (paragraph) under "Thank you"
+   URL: https://www.facebook.com/share/v/18WDSZj1sm/
+   text: https://www.facebook.com/share/v/18WDSZj1sm/

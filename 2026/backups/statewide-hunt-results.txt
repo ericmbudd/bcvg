@@ -1,0 +1,34 @@
+--- Valenty statewide hrefs ---
+governor: https://richardvalenty.com/2026/09/governor-of-colorado-2026/
+secretary-of-state: https://richardvalenty.com/2026/09/colorado-secretary-of-state/
+attorney-general: https://richardvalenty.com/2026/09/colorado-attorney-general-2/
+state-treasurer: https://richardvalenty.com/2026/09/colorado-state-treasurer-2/
+u-s-senate: https://richardvalenty.com/2026/09/u-s-senate-2026/
+u-s-house: https://richardvalenty.com/2026/09/u-s-house-congressional-district-2/
+congressional-district-2: https://richardvalenty.com/2026/09/u-s-house-congressional-district-2/
+senate: https://richardvalenty.com/2026/09/u-s-senate-2026/
+--- Sun: Gonzalez ---
+  2026-06-30 | Amanda Gonzalez wins Democratic primary for secretary of state | https://coloradosun.com/2026/06/30/colorado-primary-election-secretary-of-state-results/
+--- DenverPost: Weiser ---
+  2026-09-13 | Phil Weiser s role starting a CU tech hub offers a window into the gubernatorial candidate s approac | https://www.denverpost.com/2026/09/13/phil-weiser-governor-race-university-colorado/
+  2026-09-09 | Victor Marx keeps up with Phil Weiser in governor s race fundraising, but he s burning through cash  | https://www.denverpost.com/2026/09/09/governor-fundraising-victor-marx-phil-weiser/
+--- DenverPost: Gonzalez ---
+  2026-06-30 | Amanda Gonzalez wins Democratic primary for Colorado secretary of state | https://www.denverpost.com/2026/06/30/colorado-secretary-of-state-election-results/
+--- DenverPost: Hooton ---
+  2026-06-18 | Reddit controversy leads to CU regent campaign shakeup for candidate Edie Hooton | https://www.denverpost.com/2026/06/18/cu-regent-reddit-hooton-boulder/
+--- DenverPost: Joseph ---
+  2026-09-11 | CU Buffs teammates Vance Joseph, Eric Bieniemy set to meet again when Broncos, Chiefs clash | https://www.denverpost.com/2026/09/11/vance-joseph-eric-bieniemy-monday-night-football/
+  2026-09-10 | Broncos  Vance Joseph is more than ready for another NFL head coach job. How long will he have to wa | https://www.denverpost.com/2026/09/10/broncos-vance-joseph-nfl-head-coach-openings/
+--- ColoPolitics: Dahlkemper ---
+  2026-07-23 | Jefferson County to fill commissioner vacancy after Dahlkemper tapped for lieutenant governor | https://www.coloradopolitics.com/2026/07/23/jefferson-county-to-fill-commissioner-vacancy-after-dahlkemper-tapped-for-lieutenant-governor/
+--- ColoPolitics: Gonzalez ---
+  2026-09-21 | Is DSAer Gonzalez any better than corrupt Griswold? | Dick Wadhams | https://www.coloradopolitics.com/2026/09/21/is-dsaer-gonzalez-any-better-than-corrupt-griswold-dick-wadhams/
+  2026-06-30 | Amanda Gonzalez ahead in  Democratic primary for Secretary of State | https://www.coloradopolitics.com/2026/06/30/amanda-gonzalez-ahead-in-democratic-primary-for-secretary-of-state/
+--- DenverGazette: Dahlkemper ---
+  2026-07-23 | Jefferson County to fill commissioner vacancy after Dahlkemper tapped for lieutenant governor | https://www.denvergazette.com/2026/07/23/jefferson-county-to-fill-commissioner-vacancy-after-dahlkemper-tapped-for-lieutenant-governor/
+--- DenverGazette: Gonzalez ---
+  2026-09-21 | Is DSA-er Gonzalez any better than corrupt Griswold? | Dick Wadhams | https://www.denvergazette.com/2026/09/21/is-dsa-er-gonzalez-any-better-than-corrupt-griswold-dick-wadhams/
+  2026-06-30 | Amanda Gonzalez ahead in  Democratic primary for Secretary of State | https://www.denvergazette.com/2026/06/30/amanda-gonzalez-ahead-in-democratic-primary-for-secretary-of-state/
+--- DenverGazette: Griswold ---
+  2026-09-21 | Is DSA-er Gonzalez any better than corrupt Griswold? | Dick Wadhams | https://www.denvergazette.com/2026/09/21/is-dsa-er-gonzalez-any-better-than-corrupt-griswold-dick-wadhams/
+done

@@ -1,0 +1,155 @@
+===== IMAGES (rich context) =====
+
+[IMG 240] data-src-image-9403cdfe-b9ce-4fcb-9f9e-c8c7ecf0f52d.png
+h2=State Ballot Measures | h3=Amendment 87 (CONSTITUTIONAL): YES / FOR | h4=Analysis and Commentary:
+-3: 97% of taxpayers (those earning under $500,000 a year) will see their taxes reducedState taxable income above the first $500,000 will be taxed at a higher rateThe new revenue raised can only be used for K-12 schools, health care, and child care
+-2: When Colorado passed TABOR in 1992, the amendment included a line in the state constitution that said “all taxable net income to be taxed at one rate,” (Section 20. THE TAXPAYER’S BILL OF RIGHTS) locking in a regressive income tax system for the past 30+ years
+-1: Here is a table from the Colorado Blue Book for Amendment 87 that outlines income brackets and the marginal income tax rate for each bracket based on current policy and the proposed new rate:
++: Based on previous tax analysis, 97% of taxpayers would receive a tax cut under this new system. If you prefer to check for yourself without calculating each marginal tax rate bracket by hand, use the Colorado Sun Graduated Income Tax calculator!
++: Aside from basic tax fairness, Colorado really needs to pass Amendment 87 in order to address repeated, billion-dollar budget shortfalls. Here are a few reasons we have a structural deficit:
++: Repeated income tax cuts put on the ballot from Advance Colorado. The group ran Proposition 116 in 2020 that reduced Colorado's flat individual and corporate income tax rate from 4.63% to 4.55%, and in 2022 Proposition 121 reduced the rate further from 4.55% t
+
+[IMG 259] data-src-image-77ce24d9-db92-4fbe-a77c-4ff5e57c9525.png
+h2=State Ballot Measures | h3=Proposition NN (STATUTORY): YES / FOR | h4=Analysis and Commentary:
+-3: Colorado’s state K-12 educational budget is often constrained by TABOR (the Taxpayers Bill of Rights — unique to Colorado), especially in good economic conditions. Proposition NN gives state lawmakers the flexibility to keep more revenue raised by the state (w
+-2: Colorado scores quite highly in educational rankings, according to News & World Report, ranking first in 2026. At the same time, the Economic Policy Institute ranks Colorado last in “the teacher pay penalty… meaning teachers earned about a quarter less than co
+-1: Here’s how Proposition NN would allow a higher revenue cap for use with education, per the Colorado Blue Book:
++: Importantly, increasing the TABOR cap through Proposition NN would allow the state to dedicate more money to K-12 education. Right now, that level is only increased by inflation and growing population. However, costs for education are typically rising faster t
++: Here’s another argument in favor from Justin Ogden, a 22-year public schoolteacher in Colorado:
++: The cost of providing a high-quality education continues to rise, but Colorado’s investment in our public schools hasn’t kept up. For decades, Colorado has underfunded public education, earning an “F” grade from research publication Education Weekly. We’re cur
+
+[IMG 289] data-src-image-a9ca35e5-c4e6-464d-aea3-ad48ee628376.jpeg
+h2=State Ballot Measures | h3=Proposition 132 (STATUTORY): NO / AGAINST | h4=Analysis and Commentary:
+-3: Proposition 132 increases state spending to cover increased criminal justice system costs for the courts, public defenders, and prisons. These costs are paid from the state General Fund. Specifically, the measure increases state spending in the first budget ye
+-2: Proposition 132, Colorado Blue Book
+-1: Lastly, if you are not already convinced, I will give you my most powerful argument: even people on Boulder Nextdoor were strongly in opposition. The comments actually gave me some hope:
++: Additional Reporting, Commentary, and Sources
+
+[IMG 290] data-src-image-e9f9af2d-c3af-4f27-b060-c49dc1ac5651.jpeg
+h2=State Ballot Measures | h3=Proposition 132 (STATUTORY): NO / AGAINST | h4=Analysis and Commentary:
+-3: Proposition 132, Colorado Blue Book
+-2: Lastly, if you are not already convinced, I will give you my most powerful argument: even people on Boulder Nextdoor were strongly in opposition. The comments actually gave me some hope:
++: Additional Reporting, Commentary, and Sources
++: Proposition 132: Increase Penalties for Fentanyl Crimes — Colorado Blue BookCertified 2026 statewide ballot measures — Colorado Secretary of State (official)Proposition 132: Penalties for Fentanyl Crimes — CPR NewsAurora lawmakers lean toward public rebuke of 
+
+[IMG 291] data-src-image-6812711d-7c5a-4e4b-940f-8873a091cb18.jpeg
+h2=State Ballot Measures | h3=Proposition 132 (STATUTORY): NO / AGAINST | h4=Analysis and Commentary:
+-3: Lastly, if you are not already convinced, I will give you my most powerful argument: even people on Boulder Nextdoor were strongly in opposition. The comments actually gave me some hope:
++: Additional Reporting, Commentary, and Sources
++: Proposition 132: Increase Penalties for Fentanyl Crimes — Colorado Blue BookCertified 2026 statewide ballot measures — Colorado Secretary of State (official)Proposition 132: Penalties for Fentanyl Crimes — CPR NewsAurora lawmakers lean toward public rebuke of 
++: Proposition 133 (STATUTORY): NO / AGAINST
+
+[IMG 306] data-src-image-f2534418-5f9b-447d-8314-a1254d09c8a8.png
+h2=State Ballot Measures | h3=Proposition 133 (STATUTORY): NO / AGAINST | h4=Analysis and Commentary:
+-3: Under Colorado law, human trafficking of a minor for sexual servitude, or child sex trafficking, occurs when an adult forces or makes a minor available for commercial sexual activity in exchange for money or other compensation. Child sex trafficking is one of 
+-2: Proposition 133, Colorado Blue Book
+-1: Additionally, “Proposition 133 increases the penalty for child sex trafficking to life in prison without the possibility of parole, and removes judicial discretion in sentencing.” The backers of Proposition 133 are relying on the idea of heinous crimes to simp
++: Proposition 133 relies on our worst instincts to enact unhelpful tough-on-crime sentencing and will not make us or our children any safer.
++: Additional Reporting, Commentary, and Sources
++: Proposition 133: Penalties for Human Trafficking of a Minor — Colorado Blue BookBallot Proposition 133: Penalties for Human Trafficking of a Minor — CPR NewsCSI study reviews impacts of Colorado's mandatory sex-trafficking sentencing measure — Colorado Springs
+
+[IMG 439] data-src-image-166c0cfa-3ca4-4e71-acfc-479d34708ee6.png
+h2=Boulder County Ballot Measures | h3=Boulder County Ballot Question 201: Option B | h4=Possible Option A:
+-3: I am voting for Option B. If Boulder County voters pass Boulder County measure 200, then Boulder County measure 201 will determine how moving to five commissioners will be implemented.
+-2: Possible Option A:
+-1: Should all five commissioners be elected by voters in their respective districts?
++: Above is a map of the current three Boulder County Commissioner districts. Here are a number of problems with creating five districts:
++: Boulder County has three population centers. It’s not clearly possible to map these three population centers onto five districts without interspersing districts and breaking up communities of interest.Here’s a quick effort I made to create five districts using
+
+[IMG 442] data-src-image-c236c048-3b74-41ad-b25f-c3cced882627.png
+h2=Boulder County Ballot Measures | h3=Boulder County Ballot Question 201: Option B | h4=Possible Option A:
+-2: Above is a map of the current three Boulder County Commissioner districts. Here are a number of problems with creating five districts:
+-1: Boulder County has three population centers. It’s not clearly possible to map these three population centers onto five districts without interspersing districts and breaking up communities of interest.Here’s a quick effort I made to create five districts using
++: Possible Option B:
++: Should three district-elected commissioners be joined by two commissioners elected countywide?
++: Here are my arguments for three districts, and two at-large:
+
+[IMG 497] data-src-image-a6ffb9ca-82e5-484b-99f3-4919d7e87eb3.png
+h2=City of Boulder Ballot Measures | h3=City of Boulder Ballot Issue 2K: YES / FOR | h4=What if we made the bond smaller?
+-3: What if we made the bond smaller?
+-2: Some people have criticized Boulder’s deferred maintenance bond as “too large.” The reality is that no one wants to pay for deferred maintenance. It’s not fun, it’s not sexy — it’s not anything other than a debt that in Boulder’s case, which hasn’t been paid o
+-1: The City of Boulder polled on the measure in June and found the public split on whether to support the bond. However, a notable finding: a reduced bond paying for a smaller set of higher-priority buildings actually polled worse than the larger bond.
++: The city has outlined project start timelines based on priority, so a reduced bond would target those projects first:
++: Work on the city’s Public Safety Building relocation would begin first. The city has identified this building as having the greatest number of repair needs. This project would cost the most and would take the longest to complete. By starting soon, the city cou
++: Recreation and Safety Bond — City of Boulder
+
+[IMG 504] data-src-image-6fe6b222-2b29-427f-89b8-0fa7a308efbe.png
+h2=City of Boulder Ballot Measures | h3=City of Boulder Ballot Issue 2K: YES / FOR | h4=What if we made the bond smaller?
+-3: So, if you are asking for a smaller bond, it’s going to be the public safety building first, and other priorities second. You might understand why that option would poll worse.
+-2: Even if the council brought back a smaller bond in 2027 and 2028, and miraculously passed it (which I’m skeptical about), then you have the problem of lumping less-popular projects together to pass future bond measures. That’s a bad outcome for the city.
+-1: In an opinion piece from former Boulder Representative and City council person KC Becker asking for more process on the bond, I wanted to highlight a comment from former Boulder City Councilperson Bob Yates. He later made a more inflammatory comment on Boulder
++: I have a couple issues with this framing. Part of it is what I already said — TABOR will give the incentives for the city to pass popular measures, when not every need the city has is popular. It’s notable that Bob said in his latest newsletter, “All I can say
++: Secondly, Bob says that the committee “winnowed the staff’s wish list down from $700 million to $49 million” back in 2011. As an astute, longtime observer of Boulder politics mentioned to me: "Hmm, did going from $700M to $49M involve deferring any maintenance
++: My Boulder Progressives colleague Brian Keegan pointed me to his additional research on previous deferred maintenance conversations. Here is more context in decisions by previous city councils and staff, with a relevant quote from the 2011 bond process:
+
+[IMG 582] data-src-image-a48819f1-0cb5-46b4-b911-a22126398d05.png
+h2=Front Range Passenger Rail District | h3=Front Range Passenger Rail District Ballot Issue 7A: YES / F | h4=What would Issue 7A do and why do we need it?
+-3: What would Issue 7A do and why do we need it?Boulder has paid significant money for a train. Why should I support 7A?What happens if 7A fails?How would 7A benefit Boulder and Denver specifically?
+-2: What would Issue 7A do and why do we need it?
+-1: Issue 7A would institute a sales tax along the Front Range Passenger Rail district, which will serve as the primary funding source for passenger rail.
++: Here’s a quick fact sheet on the district:
++: 12 Front Range communities connected190 total track miles from Fort Collins to Pueblo2029 — Date that expanded service would begin15 new CoCo stations (13 Daily and 2 Special Event Stations)Up to 10 round trips per day by 2045300-500 seats per train.
++: From an election perspective, state legislators made a smart choice to update the district boundaries before putting a measure to voters: “Under SB26-172, the district would be redrawn to a fraction of its current geographic size and shed about 40% of its popu
+
+[IMG 586] data-src-image-113866d9-297b-4aee-9d90-352da31c57a6.png
+h2=Front Range Passenger Rail District | h3=Front Range Passenger Rail District Ballot Issue 7A: YES / F | h4=What would Issue 7A do and why do we need it?
+-3: Here’s a quick fact sheet on the district:
+-2: 12 Front Range communities connected190 total track miles from Fort Collins to Pueblo2029 — Date that expanded service would begin15 new CoCo stations (13 Daily and 2 Special Event Stations)Up to 10 round trips per day by 2045300-500 seats per train.
+-1: From an election perspective, state legislators made a smart choice to update the district boundaries before putting a measure to voters: “Under SB26-172, the district would be redrawn to a fraction of its current geographic size and shed about 40% of its popu
++: As far as service and number of trips, that is why Issue 7A is so important. Here is an explanation of the different phases of the project. Critically, Phase 1 service is already paid for and underway. However, Phase 2 will be funded by 7A which can expand bot
++: As far as why we need better train infrastructure, here are my main interests:
+
+[IMG 588] data-src-image-95f06986-a714-414c-ba13-bcf388423759.png
+h2=Front Range Passenger Rail District | h3=Front Range Passenger Rail District Ballot Issue 7A: YES / F | h4=What would Issue 7A do and why do we need it?
+-3: From an election perspective, state legislators made a smart choice to update the district boundaries before putting a measure to voters: “Under SB26-172, the district would be redrawn to a fraction of its current geographic size and shed about 40% of its popu
+-1: As far as service and number of trips, that is why Issue 7A is so important. Here is an explanation of the different phases of the project. Critically, Phase 1 service is already paid for and underway. However, Phase 2 will be funded by 7A which can expand bot
++: As far as why we need better train infrastructure, here are my main interests:
++: Continue to provide better, non-highway transportation that connects Colorado’s greatest economic centers.Invest in larger, people-mover type infrastructure. A heavy rail train moving 300-500 people at a time is a solid investment, significantly more than a si
++: Boulder has paid significant money for a train. Why should I support 7A?
+
+[IMG 602] data-src-image-54437453-de60-42a2-901c-5804d6fa7626.png
+h2=Front Range Passenger Rail District | h3=Front Range Passenger Rail District Ballot Issue 7A: YES / F | h4=How would 7A benefit Boulder and Denver specifical
+-3: How would 7A benefit Boulder and Denver specifically?
+-2: Here's a helpful map about where the train would intersect into Boulder. The station will be placed in Boulder Junction, which is a transit-first neighborhood in East Boulder that continues to improve year-over-year. The transit aspect of the neighborhood took
+-1: Boulder has pretty excellent transit service along the US 36 / Broadway corridor, but its service to East Boulder is lacking. Providing a long-term boost for residents and businesses in East Boulder could be a solid improvement to make Boulder transit less one
++: Denver is already well-served as the best transit hub in Colorado, but things can still get better. As an anchor to regional train service to Boulder, Fort Collins, Colorado Springs and Pueblo, Denver benefits from a strengthening region, all connected through
++: I’m also excited to see Colorado sports teams stepping up to endorse Issue 7A, as Denver has a significant regional draw to sporting events which are often difficult to reach from outside of Denver other than by automobile currently.
+
+[IMG 605] data-src-image-fd3248ca-2bf3-4a99-a384-969fcc5c4338.jpeg
+h2=Front Range Passenger Rail District | h3=Front Range Passenger Rail District Ballot Issue 7A: YES / F | h4=How would 7A benefit Boulder and Denver specifical
+-2: Denver is already well-served as the best transit hub in Colorado, but things can still get better. As an anchor to regional train service to Boulder, Fort Collins, Colorado Springs and Pueblo, Denver benefits from a strengthening region, all connected through
+-1: I’m also excited to see Colorado sports teams stepping up to endorse Issue 7A, as Denver has a significant regional draw to sporting events which are often difficult to reach from outside of Denver other than by automobile currently.
++: Additional Reporting, Commentary, and Sources
++: Official district website — Front Range Passenger Rail District (official)SB 26-172 (referring legislation) — Colorado General Assembly (official)Front Range Passenger Rail puts sales tax on ballot to fund Colorado Connector expansion — Denver PostFront Range 
+
+===== SOCIAL URL NODES (rich context) =====
+
+[SOCIAL 182] (paragraph)
+h2=State Ballot Measures | h3=Amendment 84 (CONSTITUTIONAL): NO / AGAINST | h4=Analysis and Commentary:
+-3: In addition, adding systematic burdens and additional steps to voting simply provide additional avenues for ballots to be rejected. “In Texas, a similar measure resulted in a spike in ballot rejections in 2022. Voters there either left the number section blank
+-2: Thousands or tens of thousands of ballots are already rejected in Colorado statewide due to invalid signatures. Implementing the measures required in Amendment 84 would likely cause the number of rejected ballots to be increased by an order of magnitude, in ad
+-1: Here is a very short but helpful video on how Boulder County (and other counties in Colorado) verify signatures. I had a chance to join one of Boulder County’s open-to-the-public election tours to see the process in action. It’s impressive and incredibly robus
++: Not only will Amendment 84 not make our elections safer, it will cost state and local governments millions of dollars:
++: The measure will increase state and local spending by up to $2.7 million in the initial budget year 2026-27, and $1.2 million annually in future years for voter outreach, printing, and election staff to verify voter information. These costs will be divided bet
++: Amendment 84, per the Colorado Blue Book
+full text: https://youtu.be/NKSG_4d-JKQ?si=W1HE9UOYNeWGg9wc
+
+[SOCIAL 336] (paragraph)
+h2=State Ballot Measures | h3=Proposition 134 (STATUTORY): NO / AGAINST | h4=Analysis and Commentary:
+-3: 3. Republican Senators have instead taken actions to codify discrimination against women and young people.
+-2: Senate Judiciary Republicans Will Use “Women” to Justify Attacks on Trans People, But a Brief Review of GOP’s Radical Opposition to Women’s Equality Reveals their Real Motivations and Hypocrisy — Human Rights Campaign
+-1: Lastly on trans participation in sports, I’ll you with this wisdom from Imani Gandy:
++: For many years, Colorado was known as “The Hate State” for passing Amendment 2, banning LGBTQ marriage in the state’s constitution. We finally undid that wrong by overturning that amendment in 2024. Let’s not go down that path again.
++: Additional Reporting, Commentary, and Sources
++: Proposition 134: Male and Female Participation in School and Collegiate Sports — Colorado Blue BookBallot Proposition 134: Male and Female Participation in School Sports — CPR NewsFew trans students play school sports in Colorado. A 2026 ballot measure would b
+full text: https://bsky.app/profile/votehub.com/post/3mwjxsgptr22l
+
+[SOCIAL 368] (paragraph)
+h2=State Ballot Measures | h3=Proposition 136 (STATUTORY): NO / AGAINST | h4=Analysis and Commentary:
+-3: If you support Amendment 87, the Graduated Income Tax, you must oppose Proposition 136.
+-2: Proposition 136 is yet another Advance Colorado attempt to tie the state legislature’s hands (and voter’s hands) on how Colorado balances its budget and how it can raise revenue for important state priorities. Not content with only the Taxpayer’s Bill of Right
+-1: Here’s a short informative clip from Marshall Zellinger on what happens if both Amendment 87 (Graduated Income tax) and Proposition 136 pass:
++: As mentioned in the Amendment 87 write-up, Advance Colorado has put several income tax reductions to Colorado voters which have passed previously, and locking in a lower income-tax rate for higher-earning Coloradans is another bad policy for Colorado.
++: Additional Reporting, Commentary, and Sources
++: Proposition 136: Income Tax Rate Limit — Colorado Blue BookProposition 136: Colorado income tax limit would hinder attempts to increase taxes on the rich — Colorado SunBig change for Colorado income tax makes ballot, which is now all but set for November — Den
+full text: https://www.facebook.com/share/v/18WDSZj1sm/

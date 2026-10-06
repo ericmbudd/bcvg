@@ -1,0 +1,29 @@
+Loaded posts "Election 2026 — Boulder Colorado Voter Guide" (updated_at=2026-10-04T19:01:49.000Z)
+measure positions found: 22
+  Amendment 81 (CONSTITUTIONAL) -> NO / AGAINST
+  Amendment 82 (CONSTITUTIONAL) -> NO / AGAINST
+  Amendment 83 (CONSTITUTIONAL) -> NO / AGAINST
+  Amendment 84 (CONSTITUTIONAL) -> NO / AGAINST
+  Amendment 85 (CONSTITUTIONAL) -> NO / AGAINST
+  Amendment 86 (CONSTITUTIONAL) -> NO / AGAINST
+  Amendment 87 (CONSTITUTIONAL) -> YES / FOR
+  Proposition NN (STATUTORY) -> YES / FOR
+  Proposition 132 (STATUTORY) -> NO / AGAINST
+  Proposition 133 (STATUTORY) -> NO / AGAINST
+  Proposition 134 (STATUTORY) -> NO / AGAINST
+  Proposition 135 (STATUTORY) -> NO / AGAINST
+  Proposition 136 (STATUTORY) -> NO / AGAINST
+  Proposition 137 (STATUTORY) -> NO / AGAINST
+  Boulder County Ballot Issue 1A -> YES / FOR
+  Boulder County Ballot Question 200 -> NO POSITION
+  Boulder County Ballot Question 201 -> Option B
+  City of Boulder Ballot Issue 2J -> YES / FOR
+  City of Boulder Ballot Issue 2K -> YES / FOR
+  City of Boulder Ballot Question 2L -> YES / FOR
+  City of Boulder Ballot Question 2M -> YES / FOR
+  Front Range Passenger Rail District Ballot Issue 7A -> YES / FOR
+
+lines rewritten: 22 | skipped: none
+
+--- updated card lines ---
+Dry run - nothing saved. Re-run with --push to apply.

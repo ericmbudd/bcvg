@@ -10,7 +10,9 @@
     "export": "node src/index.js",
     "copy-guide": "node src/copy-guide.js",
     "update-guide": "node src/update-guide.js",
-    "update-markdown": "node src/update-markdown.js"
+    "update-markdown": "node src/update-markdown.js",
+    "update-sections": "node src/update-sections.js",
+    "upload-pdfs": "node src/upload-pdfs.js"
   },
   "dependencies": {
     "@tryghost/admin-api": "^1.14.10",

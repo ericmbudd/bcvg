@@ -1,0 +1,71 @@
+=== markdown card ===
+* [Federal, State & County Candidates](#)
+    * [Federal Offices](#)
+        * [United States Senator](#): **John Hickenlooper**
+        * [Representative to the 120th United States Congress - District 2 (Vote for One)](#): **Joe Neguse**
+    * [State Offices](#)
+        * [Governor/Lieutenant Governor (Vote for One Pair)](#): **Marx/Markert, Phil Weiser / Lesley Dahlkemper**
+        * [Secretary of State](#): **Amanda Gonzalez**
+        * [State Treasurer](#): **Jeff Bridges**
+        * [Attorney General](#): **Jena Griswold**
+        * [Regent of the University of Colorado - Congressional District 2](#): **Edie Hooton**
+        * [State Representative - District 10](#): **Junie Joseph**
+        * [Regional Transportation District Director - District O](#): **Jack Rosenthal**
+    * [County Offices](#)
+        * [Boulder County Commissioner - District 3](#): **Ashley Stolzmann**
+        * [Boulder County Clerk and Recorder](#): **Molly Fitzpatrick**
+        * [Boulder County Treasurer](#): **Rachel Friend**
+        * [Boulder County Assessor](#): **Cynthia Braddock**
+        * [Boulder County Sheriff](#): **Curtis Johnson**
+        * [Boulder County Surveyor](#): **Kayce D. W. Keane**
+        * [Boulder County Coroner](#): **Jeff Martin**
+* [City of Boulder Offices](https://bouldercoloradovoterguide.com/#city-of-boulder-offices)
+    * [City of Boulder Mayoral Candidates](#): **1 Aaron Brockett, 2 Taishya Adams**
+    * [City of Boulder Council Candidates](#): **Ryan Schuchard, Jamillah Richmond, Sam Fuqua, Jill Adler Grano, Tina Marquis**
+* [Judicial Retention Questions](#)
+    * [Colorado Supreme Court Justice](#): **Hood**
+    * [Colorado Court of Appeals Judge](#): **Freyre, Harris, Lum, Moultrie, Schock, Sullivan**
+    * [District Court Judge - 20th Judicial District](#): **Kotlarczyk, Larson, Salomone**
+    * [County Court Judge - Boulder](#): **Brodsky, Haenselman, Malkinson**
+* [State Ballot Measures](https://bouldercoloradovoterguide.com/#state-ballot-measures)
+    * [Amendment 81 (CONSTITUTIONAL)](#): **Law enforcement immigration notification**
+    * [Amendment 82 (CONSTITUTIONAL)](#): **Right to purchase and sell natural gas**
+    * [Amendment 83 (CONSTITUTIONAL)](#): **Right to hunt and fish**
+    * [Amendment 84 (CONSTITUTIONAL)](#): **Mail ballot voter identification**
+    * [Amendment 85 (CONSTITUTIONAL)](#): **Plain language ballot titles**
+    * [Amendment 86 (CONSTITUTIONAL)](#): **Off-cycle congressional redistricting limits**
+    * [Amendment 87 (CONSTITUTIONAL)](#): **Graduated income tax**
+    * [Proposition NN (STATUTORY)](#): **K-12 education investment increase**
+    * [Proposition 132 (STATUTORY)](#): **Fentanyl penalties**
+    * [Proposition 133 (STATUTORY)](#): **Human trafficking of a minor penalties**
+    * [Proposition 134 (STATUTORY)](#): **Sports participation by sex**
+    * [Proposition 135 (STATUTORY)](#): **Prohibit surgery on minors**
+    * [Proposition 136 (STATUTORY)](#): **Income tax rate cap at 4.4%**
+    *
+...(length: 4060 )
+
+=== headings in lexical (first 12) ===
+[5] h3: "About Boulder Colorado Voter Guide and Disclosures" | anchorId: undefined
+[10] h2: "Voter Guide 2026" | anchorId: undefined
+[11] h3: "November 3rd, 2026 General Election in Boulder, Colorado" | anchorId: undefined
+[13] h2: "Federal, State & County Candidates" | anchorId: undefined
+[14] h3: "Federal Offices" | anchorId: undefined
+[15] h4: "United States Senator" | anchorId: undefined
+[17] h4: "Representative to the 120th United States Congress - District 2 (Vote for One)" | anchorId: undefined
+[19] h3: "Colorado Offices" | anchorId: undefined
+[20] h4: "Governor/Lieutenant Governor (Vote for One Pair)" | anchorId: undefined
+[22] h4: "Additional Reporting, Commentary, and Sources" | anchorId: undefined
+[24] h4: "Secretary of State" | anchorId: undefined
+[26] h4: "Additional Reporting, Commentary, and Sources" | anchorId: undefined
+total headings: 190
+
+=== rendered html: heading id check ===
+/home/ericmbudd/projects/bcvg/card-inspect.js:33
+  const htmlPost = (await htmlRes.json()).posts[0];
+                                               ^
+
+TypeError: Cannot read properties of undefined (reading '0')
+    at /home/ericmbudd/projects/bcvg/card-inspect.js:33:48
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+Node.js v26.1.0
