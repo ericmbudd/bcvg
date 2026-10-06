@@ -1,0 +1,932 @@
+[
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Shall state investment in K-12 public education increase two percent each year for the next ten years, with investments used to increase teacher pay, improve teacher retention, lower class sizes, and increase access to career and technical courses, without raising taxes but instead funded by raising the annual limit on state fiscal year spending only by the amount spent on public K-12 education as a voter-approved revenue change, and requiring an annual publicly released, independent audit to show how the new investments are spent?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Position: Yes / For",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Who put the measure on the ballot?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Proposition NN was placed on the ballot with Democratic support through the state legislature through ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Senate Bill 26-135",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://leg.colorado.gov/bills/SB26-135"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ".",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Short Description:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Increases state investment in K-12 public education by two percent each year for the next ten years for teacher pay, teacher retention, smaller class sizes, and career and technical courses. The measure would be funded by raising the state fiscal year spending limit only by the amount spent on K-12 education, with an annual independent audit of how the investments are spent.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Analysis and Commentary:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Support. Proposition NN was placed on the ballot with Democratic support from the state legislature through ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Senate Bill 26-135",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://leg.colorado.gov/bills/SB26-135"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ".",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Colorado’s state K-12 educational budget is often constrained by TABOR (the Taxpayers Bill of Rights — unique to Colorado), especially in good economic conditions. Proposition NN gives state lawmakers the flexibility to keep more revenue raised by the state (without raising taxes) in order to fund education.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Colorado scores quite highly in educational rankings, according to ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "News & World Report",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://coloradosun.com/2026/07/29/us-news-world-report-education-rankings-colorado-first/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ", ranking first in 2026. At the same time, the ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Economic Policy Institute ranks Colorado last",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.epi.org/publication/the-teacher-pay-penalty-remained-high-in-2025-teachers-and-students-nationwide-are-still-paying-the-price-of-decades-of-neglect/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " in “the teacher pay penalty… meaning teachers earned about a quarter less than comparable college graduates in other professions.” Their data in 2025 showed the Colorado teachers had a 40.7% pay discount compared to comparable college graduates in other professions in the state.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Here’s how Proposition NN would allow a higher revenue cap for use with education, per the ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Colorado Blue Book",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bouldercoloradovoterguide.com/content/files/2026/09/proposition-nn-keep-and-spend-money-for-education-and-other-purposes.pdf"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ":",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-77ce24d9-db92-4fbe-a77c-4ff5e57c9525.png",
+    "width": 1035,
+    "height": 698,
+    "title": "",
+    "alt": "Colorado Blue Book diagram showing how Proposition NN raises the TABOR revenue cap for K-12 education",
+    "caption": "",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Importantly, increasing the TABOR cap through Proposition NN would allow the state to dedicate more money to K-12 education. Right now, that level is only increased by inflation and growing population. However, costs for education are typically rising faster than inflation, and Colorado’s population growth has begun to stagnate compared to ten years ago.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Here’s another argument in favor from Justin Ogden, a 22-year public schoolteacher in Colorado:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "The cost of providing a high-quality education continues to rise, but Colorado’s investment in our public schools hasn’t kept up. For decades, Colorado has underfunded public education, earning an “F” grade from research publication Education Weekly. We’re currently underfunding each student by $4,600 and we rank dead last in the nation for teacher wage competitiveness.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Proposition NN is the best investment for Colorado’s students and schools",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.coloradopolitics.com/2026/08/07/proposition-nn-is-the-best-investment-for-colorados-students-and-schools-guest-column/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " | GUEST COLUMN — Colorado Politics",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "One additional note on Proposition NN and its interaction with Proposition 137 (which is the reason I am opposed to Prop 137), per the Colorado Blue Book:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "How does Proposition NN interact with other measures? Proposition 137 reduces the amount of revenue the state collects that is subject to the TABOR limit. This measure will not affect the Proposition NN limit. However, if the measure passes, the amount of money the state will actually keep and spend under Proposition NN may be reduced or eliminated.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Proposition NN, Colorado Blue Book",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bouldercoloradovoterguide.com/content/files/2026/09/proposition-nn-keep-and-spend-money-for-education-and-other-purposes.pdf"
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Additional Reporting, Commentary, and Sources",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Proposition NN: Keep and Spend Money for Education and Other Purposes",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://bouldercoloradovoterguide.com/content/files/2026/09/proposition-nn-keep-and-spend-money-for-education-and-other-purposes.pdf"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Blue Book",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "SB 26-135 (referring legislation)",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://leg.colorado.gov/bills/sb26-135"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado General Assembly (official)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "At Proposition NN campaign launch, advocates hope this time will be different",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.chalkbeat.org/colorado/2026/07/17/advocates-launch-prop-nn-school-funding-yes-campaign/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Chalkbeat Colorado",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Campaign launched to redirect $1 billion in TABOR refunds to education",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.coloradopolitics.com/2026/07/17/campaign-launched-to-redirect-1-billion-in-tabor-refunds-to-education/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Politics",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Proposition NN: TABOR Revenue Cap Increase for K-12 Education Measure",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.cpr.org/2026/09/25/vg-2026-prop-nn-tabor-school-funding/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — CPR News",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Prop NN supporters say the money is guaranteed and K-12 only. The law says otherwise.",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://rockymountainvoice.com/2026/09/21/prop-nn-supporters-say-the-money-is-guaranteed-and-k-12-only-the-law-says-otherwise/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Rocky Mountain Voice",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Littwin: Maybe it's a long shot, but voters will get another chance to rein in TABOR",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://coloradosun.com/2026/05/13/tabor-taxes-colorado-opinion-littwin/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Sun (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 7
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Proposition NN is the best investment for Colorado's students and schools",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.coloradopolitics.com/2026/08/07/proposition-nn-is-the-best-investment-for-colorados-students-and-schools-guest-column/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Politics (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 8
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "EDITORIAL: The real 'deepfake' is Proposition NN",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.denvergazette.com/2026/08/26/editorial-the-real-deepfake-is-proposition-nn/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Denver Gazette (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 9
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  }
+]

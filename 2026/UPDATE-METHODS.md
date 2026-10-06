@@ -131,6 +131,7 @@ Slug = section title, **properly hyphenated**, + `-2026`.
 | custom_excerpt | set explicitly; the `excerpt` field is computed/read-only and silently ignored on create |
 | feature_image | copied from the main guide |
 | feature_image_alt / feature_image_caption | copied from the main guide (caption renders under the header image) |
+| codeinjection_foot | **ballot-measure subpages: copy the main guide's `codeinjection_foot` verbatim** — see Code injection below |
 | published_at | staggered **+1 minute** per subpage in guide order; first = guide's `published_at` + 1 min (`2026-10-05T12:01:00.000Z`) |
 
 Body structure, in order:
@@ -142,12 +143,61 @@ Body structure, in order:
 3. **Section content carried over verbatim** from the main guide (paragraphs, embed
    cards, sources list) — minus the section's own heading (the page title covers it)
    and any trailing empty paragraph.
-4. **Button card** at the bottom: "Read the Full 2026 Voter Guide" →
-   `https://bouldercoloradovoterguide.com/election-guide#<anchor-id>`. (This framing
-   is correct *on the subpage* — the full guide does have more content.)
+4. **Button card** at the bottom: "Read the Full 2026 Voter Guide" → the main guide's
+   **summary section**, not the section anchor. The summary h2 ("Colorado Voter Guide
+   2026 — November 3rd, 2026 General Election in Boulder, Colorado") has a
+   Ghost-generated id that **literally contains `%E2%80%94`** (Ghost percent-encodes
+   the em-dash inside the id attribute). Browsers percent-decode URL fragments before
+   matching ids, so a fragment written as `%E2%80%94` decodes to a real em-dash and
+   never matches — the link silently fails and the page loads at the top. **The
+   fragment must be double-encoded** (`%25E2%2580%2594` → decodes once to
+   `%E2%80%94` → matches the literal id):
+
+   ```
+   https://bouldercoloradovoterguide.com/election-guide#colorado-voter-guide-2026-%25E2%2580%2594-november-3rd-2026-general-election-in-boulder-colorado
+   ```
+
+   (Alternative if this ever gets messy: rename the h2 to avoid the em-dash — its id
+   would then be plain ASCII. Avoid linking any heading whose id contains `%XX`
+   sequences without double-encoding.)
 5. Carried-over sub-headers (h4 on the main guide) should become **h2** on the
    subpage, since the post title is the h1 there. Not yet applied to the RTD subpage —
    handle in the batch.
+
+### Code injection (ballot-measure subpages)
+
+Measure sections reference YES / FOR and NO / AGAINST in body text; the coloring
+comes from the main guide's **site-post code injection**, which does not carry over
+to new posts automatically. Any subpage whose section contains YES/FOR or NO/AGAINST
+text (all ballot measures; candidate sections that discuss positions) must set its
+own `codeinjection_foot` — **copy the main guide's `codeinjection_foot` verbatim**.
+It contains exactly the generic pieces:
+
+- `scroll-behavior: smooth` style (anchor jumps animate)
+- `.pos-yes` (`#1e3a8a`) / `.pos-no` (`#b91c1c`) styles
+- the TreeWalker script that wraps YES / FOR and NO / AGAINST text nodes in those
+  classes (idempotent via a `posColored` guard; skips text already inside colored
+  spans, so it never doubles the summary card's inline spans). **Scope note:** the
+  script walks `document.body`, not `.gh-content` — Ghost renders the post title and
+  custom excerpt *outside* `.gh-content`, so a content-scoped script would leave the
+  title/subheader uncolored (fixed 2026-10-06). The built-in filters (skip
+  script/style nodes, skip spans already carrying `pos-` classes or inline `color:`)
+  make body-wide walking safe.
+- the **anchor re-scroll helper** (added 2026-10-06): on pages loaded with a
+  `#fragment`, re-scrolls to the target after `window.load` (+1s fallback) with
+  `scrollIntoView({behavior:'instant'})`. Needed because the browser's initial
+  fragment scroll races image loading on this long page — images without reserved
+  space shift the layout after the jump, so deep anchors (e.g. Proposition 137)
+  landed in the wrong place on some devices/browsers while shallow ones worked. The
+  helper decodes the hash once, so the double-encoded em-dash id still matches.
+
+**Do not copy `codeinjection_head`** — it holds guide-specific pieces (LD+JSON
+article schema, meta itemprop dates, the lite-youtube loader). Subpages get Ghost's
+auto-generated meta/schema; only copy head code if the section actually embeds a
+YouTube video (then just the lite-youtube `<script>` line).
+
+Reference: `create-amendment-81-subpage.js` (first measure subpage, created with the
+foot injection).
 
 ### Main guide changes per subpage
 
@@ -160,6 +210,12 @@ Body structure, in order:
    - **🔗 permalink button** — a real `<a href="subpage-url">` (this is the SEO
      internal link), labeled via `aria-label` + `title` = "<Section> — 2026 voter
      guide". Icon-only anchors are acceptable for SEO when labeled this way.
+     **`SUBPAGE_URL` is always at the site root** —
+     `https://bouldercoloradovoterguide.com/{slug}-2026/` — **never** under
+     `/election-guide/`. (A batch script once concatenated the guide URL with the
+     slug, producing `/election-guide/amendment-82-…-2026/` 404s on all 14 measure
+     cards — fixed 2026-10-06. The same wrong URL must not go in `data-share-url`,
+     or the Share button shares the broken link.)
    - **Share button** — Web Share API (`navigator.share`) with clipboard-copy fallback
      and a "Link copied" toast for browsers without share support.
    - **Styling:** filled pills in the guide blue `#1e3a8a`, white text, subtle shadow,
@@ -249,6 +305,14 @@ Body structure, in order:
 - **In-place page→post conversion is not possible** — the posts endpoint 404s on page
   ids ("Resource not found error, cannot edit post"). Convert by delete + recreate;
   the URL is identical (Ghost serves both at `/{slug}/`), so inbound links survive.
+- **Lexical list nodes must be `type: 'list'`** (with `value: 1,2,…` on each
+  `listitem`) — **not** `type: 'extended-list'`. An `extended-list` node passes the
+  save validation but **breaks Ghost's render pipeline**: the public page truncates
+  silently at that node (everything after it vanishes from the page while the API's
+  `lexical` still looks correct). Always copy list structure from an existing rendered
+  node (see any sources list in the guide) and verify the PUBLIC page, not just the
+  API's `html` render, after editing lexical by hand. (Hit 2026-10-06 on the FAQ
+  endorsements update; fixed by rebuilding the lists as `type: 'list'.)
 
 ### Process (same discipline as all guide edits)
 
@@ -271,6 +335,56 @@ Body structure, in order:
 - `link-rtd-subpage.js`, `fix-rtd-subpage.js`, `fix-rtd-image-meta.js`,
   `convert-page-to-post.js` — earlier RTD fixes kept as batch reference (card-link
   swap + revert, slug rename, heading unwrap, image meta copy, page→post conversion)
+
+---
+
+### Election FAQ page — annual update playbook
+
+The FAQ (`election-guide-faq`, a Ghost **page** — edit via `api.pages`, linked in the
+nav as "Voter Guide FAQ") was fully migrated 2025 → 2026 on 2026-10-06. Each section,
+what changes every election, and where the data comes from:
+
+| Section | Annual update | Data source |
+|---|---|---|
+| What is Boulder Colorado Voter Guide? | year string in the intro ("…voter guide for the **YYYY** election…") | trivial edit |
+| Which candidates did BCVG support for Boulder City Council? | new candidate list **in the guide's endorsement order**, each linked to their campaign website; intro "supports N candidates… in YYYY:" | candidate names + order: the main guide's council section ("I am voting for…" paragraph). Website URLs: the guide's council candidate-profile paragraphs ("…'s website" links) — re-verify each returns 200 before linking |
+| *(appended after the list)* references paragraph | links to the council + mayoral subpages | subpage URLs (`/{slug}-2026/`) |
+| What are the Boulder City Council endorsements for candidates backed by BCVG? | one H3 + bullet list per endorsed candidate (guide order), **no links**; endorsing groups in table order | the endorsement comparison table/graphic data (user-provided each cycle; parse per-candidate endorser lists — watch for count mismatches between the table's Count row and its rows) |
+| What are the accomplishments from the current Boulder City Council? | intro naming the BCVG-endorsed incumbents on council + the accomplishments list | intro framing + list: the main guide's mayoral section ("…and the council have accomplished…" paragraph + list), adapted for the FAQ |
+| What ballot measure positions did BCVG support for the YYYY election? | heading year, intro, and a **markdown card of all measures** — grouped by level, colored spans for YES/FOR + NO/AGAINST, bold-black for NO POSITION / Option B, **each measure linked to its subpage** | **built programmatically from the main guide's summary card** (positions, descriptions, grouping, anchors → subpage slugs). No manual data entry |
+| Tell me more about BCVG's history and previous guides? | prepend the prior year's guide as a **linked** top entry (list items = post titles) | prior guide post slug/title from the Ghost posts list |
+
+**Scripts (repo root, config-driven — edit the CONFIG block at the top, then run):**
+
+- `update-faq-supported.js` — CANDIDATES array (name + website URL)
+- `update-faq-endorsements.js` — CANDIDATES array (name + endorsers list)
+- `update-faq-accomplishments.js` — INTRO + ITEMS array
+- `update-faq-positions.js` — fully automatic from the summary card (only the year in
+  the heading/intro strings is hardcoded)
+- `update-faq-internal-links.js` — references paragraph + re-links the positions card
+  to subpages (automatic from the summary card)
+- year-string fixes (e.g. "2025 election" → "2026 election") — one-off edits
+
+**Single-step workflow for a new election year:**
+
+1. Finish the main guide + summary card first (the FAQ's positions section is generated
+   from it), and create the subpages (their slugs are derived from card anchors).
+2. Edit the CONFIG blocks in `update-faq-supported.js`, `update-faq-endorsements.js`,
+   `update-faq-accomplishments.js` with the new cycle's data.
+3. Run all five scripts with `--push` (each backs up + verifies; the positions and
+   internal-links scripts need no manual data).
+4. Sweep for stale year strings on the FAQ (search "2025" → previous cycle) — the only
+   intentional ones are the history list's prior-guide entries.
+5. Verify the **public** page renders completely (see gotcha below).
+
+**FAQ-specific gotchas:**
+
+- Lexical lists must be `type: 'list'` with `value` on listitems — see the render
+  truncation gotcha above.
+- The page is edited via `api.pages`, and the FAQ's own code injection (button year
+  replacement script) lives in its settings — leave it alone.
+- Ghost appends `?ref=bouldercoloradovoterguide.com` to outbound links and strips
+  `target="_blank"` — don't mistake these for broken links when verifying.
 
 ---
 
@@ -345,16 +459,28 @@ node -e "require('dotenv').config();const {createGhostAdminClient}=require('./sr
 
 ## Status / pending work
 
-- **Subpages: RTD District O live (2026-10-05).**
-  `https://bouldercoloradovoterguide.com/regional-transportation-district-director-district-o-2026/`
-  — post, public, `published_at 2026-10-05T12:01:00Z`, feature image + alt + caption
-  copied from the guide, leading empty paragraph, back-button to
-  `election-guide#regional-transportation-district-directordistrict-o`. Main guide has
-  the 🔗+Share actions card under the RTD heading; summary-card anchor unchanged.
-  **Pending:** batch-create the remaining subpages (all measures + mayoral/council;
-  skip thin office sections), stagger `published_at` +1 min each in guide order,
-  insert each section's actions card, and promote carried-over h4 sub-headers to h2
-  on the subpages.
+- **Election FAQ fully updated for 2026 (2026-10-06):** supported candidates (linked
+  to campaign sites + references paragraph linking the council/mayor subpages),
+  council endorsements, council accomplishments (intro names Brockett/Schuchard/
+  Marquis), all 22 measure positions (markdown card generated from the summary card,
+  measures linked to subpages), and the 2025 guide linked at the top of the history
+  list. See the **Election FAQ page — annual update playbook** above for the
+  repeatable per-cycle workflow.
+- **Subpages: COMPLETE (2026-10-06) — 26 live.** RTD District O (12:01), Mayoral
+  (12:02, feature image = mayoral endorsements graphic), Council (12:03, feature
+  image = council endorsements graphic), all 14 state measures (12:04–12:17), county
+  measures 1A (12:18) / 200 (12:19) / 201 (12:20), city measures 2J (12:21) / 2K
+  (12:22) / 2L (12:23) / 2M (12:24), Front Range 7A (12:25). Each: post, public,
+  `custom_excerpt`, leading empty paragraph, back-button to the guide's summary
+  anchor (double-encoded em-dash), yes/no color `codeinjection_foot`
+  (document.body-scoped), h4→h2 sub-headers, and a 🔗+Share actions card on the main
+  guide (site-root URLs); summary-card anchors unchanged. Non-colored positions
+  (NO POSITION, Option B) are bold black in the summary card (`**…**`), and their
+  subpage excerpts use "taking NO POSITION" / "support Option B" phrasing. Batch
+  scripts: `create-state-measure-subpages.js`, `create-final-subpages.js`
+  (idempotent — skip existing slugs). **Remaining polish:** optional — sync the
+  re-scroll helper into the early subpages' foots (functionally unnecessary; nothing
+  links to them with fragments).
 - **Placeholder links: resolved (2026-09-25).** All 55 former `url: '#'` entries were
   addressed: 45 filled with verified URLs, 10 removed because the described piece could
   not be verified to exist (see Removed entries below). The live post has **zero** `#`

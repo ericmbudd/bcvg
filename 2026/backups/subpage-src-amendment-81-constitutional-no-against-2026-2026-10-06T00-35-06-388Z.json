@@ -1,0 +1,839 @@
+[
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Shall there be an amendment to the Colorado Constitution requiring law enforcement to notify the department of homeland security when a person is charged with either a violent crime or any crime if the person has a prior felony conviction if law enforcement cannot determine that the person is lawfully present in the United States?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Who put the measure on the ballot?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Amendment 81 was placed on the ballot through a citizen initiative backed by operatives of ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Advance Colorado",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://whoisadvancecolorado.com/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ", a right-wing group supporting numerous measures on Colorado’s 2026 ballot.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Short Description:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Requires law enforcement to notify the Department of Homeland Security when a person is charged with a violent crime, or is charged with any crime and has a prior felony conviction, if law enforcement cannot determine that the person is lawfully present in the United States.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Analysis and Commentary:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Oppose. Amendment 81 was placed on the ballot through a citizen initiative backed by operatives of ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Advance Colorado",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://whoisadvancecolorado.com/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ", a right-wing group supporting numerous measures on Colorado’s 2026 ballot.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 1,
+        "mode": "normal",
+        "style": "",
+        "text": "Mandatory reporting to ICE.",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " Amendment 81 would require law enforcement to report to Immigration and Customs Enforcement. A number problematic pieces in the amendment:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Reporting would be required simply if a person is charged (not convicted)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "“THE PERSON IS NOT LAWFULLY PRESENT IN THE UNITED STATES OR THE STATUS OF THE PERSON’S LAWFUL PRESENCE IS UNKNOWN” — such a provision would put an additional burden on every law enforcement action that applies, and places additional burdens on people to prove their citizenship.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The amendment applies to all felonies, regardless of severity or whether the activity was “violent.”",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "number",
+    "start": 1,
+    "tag": "ol"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Fundamentally, the amendment is yet another attempt to exclude and subjugate immigrants using the law as a tool of fear. It’s particularly galling that Republican groups are moving ahead with this initiative when we have nationally seen the worst corruptions of a police state — brutal killings by ICE and related government agencies with no accountability at all.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "At the same time, there’s a massive body of evidence that immigrants commit crimes at a lower rate than native-born people (",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "National Institute of Justice",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://docs.house.gov/meetings/JU/JU01/20250122/117827/HHRG-119-JU01-20250122-SD004.pdf"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ", ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Migration Policy Institute",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.migrationpolicy.org/explainer/immigrants-and-crime-united-states"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ", and ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Cato Institute",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.cato.org/policy-analysis/immigrants-cut-victimization-rates-boost-crime-reporting"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " are just a few sources). This measure has no place in Colorado’s constitution.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "For an in-depth look at how such a policy might affect Colorado, read this piece from Alex Burness at Bolts Mag, “",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "“We’re Afraid on a Daily Basis”: How a Maryland Sheriff Targeted Immigrants Long Before ICE Raids Spiked",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://boltsmag.org/frederick-county-immigration-enforcement-sheriff-chuck-jenkins/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ":”",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "The longtime sheriff in Frederick County, Chuck Jenkins, earned this reputation by associating with far-right, anti-immigrant organizations designated as hate groups by the Southern Poverty Law Center. Jenkins, a Republican who stands for re-election this November, has become a small-town celebrity who has been a Fox News regular and visited with Donald Trump at both the White House and Mar-a-Lago.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "…",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": null,
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "“The fear and the justified state of terror and hysteria that folks have been put in nationally under this administration is what folks have been living under in Frederick for years,” Frederick resident Sebastian Brown, an advocacy strategist with the ACLU of Maryland, told me. “People didn’t always know the name 287(g), but they knew that if you got sent to jail, you’d end up with ICE. That fear has been here since 2008 and permeated every part of people’s lives.”",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Additional Reporting, Commentary, and Sources",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Amendment 81: Law Enforcement Communication with Federal Immigration Authorities",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://bouldercoloradovoterguide.com/content/files/2026/09/amendment-81-law-enforcement-communication-with-federal-immigration-authorities.pdf"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Blue Book",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Amendment 81: Requires local law enforcement to communicate with ICE",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.cpr.org/2026/09/25/vg-2026-amendment-81-local-law-enforcement-ice/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — CPR News",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Police cooperation with ICE to appear on Colorado ballot",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://coloradonewsline.com/2026/09/14/police-cooperation-ice-colorado-ballot/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Newsline",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Amendment 81 Puts Colorado's Cooperation With ICE Before Voters",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://rockymountainvoice.com/2026/09/14/amendment-81-puts-colorados-cooperation-with-ice-before-voters/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Rocky Mountain Voice",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "PHOTOS: Coloradans Opposed to Pro-ICE Ballot Measure Kick Off 'No on 81' Campaign",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://coloradotimesrecorder.com/2026/09/photos-coloradans-opposed-to-pro-ice-ballot-measure-kick-off-no-on-81-campaign/81530/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Times Recorder",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Voters will decide whether to force Colorado police to alert ICE after charging people with questionable immigration status",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://coloradosun.com/2026/01/23/initiative-95-colorado-ballot-approved/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Sun",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "'No' on Amendment 81 and 82; Taishya Adams has conviction; stand with Boulder (Letters)",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.dailycamera.com/2026/09/25/letters-boulder-county-colorado-midterm-election-amendment-vote-no/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Daily Camera (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 7
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  }
+]

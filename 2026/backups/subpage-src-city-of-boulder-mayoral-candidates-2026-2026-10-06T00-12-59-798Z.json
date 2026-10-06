@@ -1,0 +1,3494 @@
+[
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Ranked-choice voting — rank up to six candidates, one to be elected. Local elected offices are non-partisan, so candidates do not have a party listed next to their name.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I'm ranking 1. Aaron Brockett and 2. Taishya Adams",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I am voting for Aaron Brockett as my choice for Boulder’s mayor. His work on Boulder City Council since 2015 (plus a previous term on Boulder’s Planning Board) have really shown a depth of knowledge and ability in leading the city, as well as making progress on a number of long-term priorities.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Aaron Brockett and the council have accomplished a massive amount in just the past three years. The work on housing, transportation, climate and sustainability is significant compared to the pace of change in the past few decades. I’ve updated a list of accomplishments included in my voter guide for the 2025 election (which was Boulder’s last off-cycle election before moving to even-year municipal elections):",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Updated the Boulder Valley Comprehensive Plan to significantly expand Boulder’s possible long-term housing supply",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2026/08/27/boulders-new-land-use-plan-could-make-room-for-up-to-40-more-housing/"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Strengthened Boulder’s wildfire hardening and resilience code",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2026/01/08/boulder-city-council-approves-landscaping-overhaul-to-save-water-and-reduce-fire-risk/"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Implemented Boulder's mandate that new buildings are all-electric and natural-gas free",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer",
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2024/06/06/boulder-mandates-gas-free-all-electric-construction-for-new-builds-starting-december-2024/"
+          }
+        ],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Supporting and approving a measure to set future council’s pay based on the median city wage",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2024/05/12/boulder-city-council-pursues-2024-ballot-measure-to-raise-councilmember-pay/?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Supported Colorado’s law to end discriminatory housing occupancy limits statewide in Colorado",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2025/03/06/boulder-city-council-unanimously-ends-occupancy-limits-after-decades-of-debate/?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Established Boulder’s first citywide minimum wage",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2024/10/11/boulder-city-council-approves-15-57-minimum-wage-for-2025-below-denver-and-boulder-county/?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Ended city-mandated parking requirements",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2025/06/26/boulder-to-end-parking-mandates-for-new-developments-in-major-shift/?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 7
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Expanded housing on transit corridors",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2025/02/06/in-boulders-latest-zoning-reforms-a-new-way-of-thinking-about-neighborhood-character/?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 8
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Expanded work on the Core Arterial Network to improve transportation",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://bouldercolorado.gov/guide/core-arterial-network?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 9
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Improved safety for people walking, biking, busing, and driving",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://bouldercolorado.gov/news/us-department-transportation-awards-boulder-23-million-grant-improve-transportation-safety?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 10
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Established a transportation maintenance fee (first proposed in the early 2010s) as a permanent funding mechanism to improve maintenance on roads, bike paths, multi-use paths, and sidewalks",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2025/10/09/boulder-city-council-approves-521-million-2026-budget-with-new-fees-and-cuts/?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 11
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Expanded housing options for townhomes, duplexes, and accessory dwelling units",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2025/01/09/boulder-city-council-advances-zoning-reforms-to-increase-housing-density/?ref=bouldercoloradovoterguide.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 12
+      }
+    ],
+    "direction": null,
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "What are the biggest challenges that the next mayor and city council will face?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Again, since it’s only been a year since the last municipal election, I’m going to revisit my list of challenges from 2025 and add new thoughts. Every city council has known challenges and unknown challenges. Here are a few things that the next city council will certainly be grappling with:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Additional focus to allow more Middle Income Housing to be built in Boulder",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Boulder continues to make progress here from a zoning and transportation perspective, but likely the city will need to continue implementing both its comprehensive plan and state laws to keep making progress.",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "list",
+            "version": 1,
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Reduced city budget for social services and ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Reduced funding for homelessness services (ARPA)",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://bouldercolorado.gov/news/city-launches-building-home-support-recently-housed-community-members?utm_source=chatgpt.com"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Boulder’s 2026 budget reduced spending on housing and human services by 2.65%, while the ",
+                    "type": "extended-text",
+                    "version": 1
+                  },
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 8,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "proposed 2027 budget",
+                        "type": "extended-text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": "ltr",
+                    "format": "",
+                    "indent": 0,
+                    "type": "link",
+                    "version": 1,
+                    "rel": null,
+                    "target": null,
+                    "title": null,
+                    "url": "https://stories.opengov.com/cityofboulderco/68d0bc8f-fb31-4578-a8af-59594ef78e4d/published/hgCyk4CwB?currentPageId=6a85b885c8d270500e07967e"
+                  },
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": " would reduce funding by an additional 3.11%.",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "list",
+            "version": 1,
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Continued reduction in sales tax revenue and impacts from federal spending cuts",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "The City of Boulder budget continues to be under increased pressure due to stagnant sales and property tax revenue.",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "list",
+            "version": 1,
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Potential loss of federal transportation funding",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "While the city hasn’t seen a significant reduction in federal transportation funding, existing projects are subject to federal matching funds which ",
+                    "type": "extended-text",
+                    "version": 1
+                  },
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 8,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "may be at risk later this year",
+                        "type": "extended-text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": "ltr",
+                    "format": "",
+                    "indent": 0,
+                    "type": "link",
+                    "version": 1,
+                    "rel": null,
+                    "target": null,
+                    "title": null,
+                    "url": "https://www.naco.org/news/federal-funding-extension-creates-transportation-funding-cliff-counties"
+                  },
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": " if not renewed.",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "list",
+            "version": 1,
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Continued demographic shift to older and wealthier populations",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Only a year later, but the city (and county) are unlikely to see a change in aging trends anytime soon.",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "list",
+            "version": 1,
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Continued steep drops in school enrollment",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "The Boulder Valley School District has identified challenges with declining enrollment for five to ten years. Just in the past month, school officials and the ",
+                    "type": "extended-text",
+                    "version": 1
+                  },
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 8,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "Board of Education voted",
+                        "type": "extended-text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": "ltr",
+                    "format": "",
+                    "indent": 0,
+                    "type": "link",
+                    "version": 1,
+                    "rel": null,
+                    "target": null,
+                    "title": null,
+                    "url": "https://boulderreportinglab.org/newsletter/%F0%9F%8F%AB-bvsd-board-votes-to-close-four-elementary-schools/"
+                  },
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": " to implement a plan to close four elementary schools and consolidate several middle schools. City governments do not have direct effects on school enrollment, but decades of housing challenges and high cost of living contribute to these trends. Unfortunately, fixing those challenges will take continued effort and multiple years",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "list",
+            "version": 1,
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 7
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://ericmbudd.wordpress.com/wp-content/uploads/2025/10/image.png?w=834",
+    "width": 834,
+    "height": 655,
+    "title": "",
+    "alt": "A chart of BVSD’s enrollment forecast by CU Boulder Professor Brian C. Keegan, Ph.D. (published in 2025)",
+    "caption": "<span style=\"white-space: pre-wrap;\">A chart of BVSD’s enrollment forecast by CU Boulder Professor Brian C. Keegan, Ph.D. (published in 2025)</span>",
+    "cardWidth": "regular",
+    "href": "https://www.datawrapper.de/_/YtiqV/"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Comparing endorsements in Boulder's mayoral race",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Here's a helpful diagram of the known endorsements in Boulder's 2026 mayoral race. Note that I have only listed candidates which have received at least one endorsement or ranking recommendation from an established city group or organization.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/2026-Boulder-Mayor-Endorsements-Graphic-1.png",
+    "width": 1900,
+    "height": 2000,
+    "title": "",
+    "alt": "A comparison of endorsements in Boulder's 2026 mayoral race from Boulder Colorado Voter Guide",
+    "caption": "<span style=\"white-space: pre-wrap;\">A comparison of endorsements in Boulder's 2026 mayoral race from Boulder Colorado Voter Guide</span>",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Boulder’s mayor election uses ranked choice voting. Who else to consider?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I am voting for Aaron Brockett ranked first, but I wanted to write about a few other candidates. ",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Taishya Adams",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I supported Taishya Adams for Boulder City Council in 2023, and think that she has been a solid council person in passing many of the progressive priorities accomplished in the past three years. I have wanted to see more leadership here in working on moving the city forward on the core functions of housing, transportation, and land use. I appreciate Councilwoman Adams’ passion in issues around water resource management and long-term resiliency. I do like to highlight that Colorado’s urban water usage is only ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "~7% of our state’s demand",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://kgnu.org/front-range-water-use-agriculture-and-the-colorado-river-crisis/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " and our focus there needs to be in proportion to the city’s main climate and resiliency goals.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "One place I want to highlight from Councilwoman Adams' campaigning is the need for stronger police oversight and a reduction in tools of mass surveillance, and policies that harm our civil liberties, particularly for minoritized populations. Boulder continues to ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "weaken its police oversight",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://boulderreportinglab.org/2026/09/20/what-is-our-function-boulder-police-oversight-panel-brings-civilian-review-concerns-to-council/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " year over year and I don’t see that pattern reversing without people willing to lead on the issue.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I will be ranking Taishya Adams second on my ballot. ",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Thoughts on other Candidates",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Jameson “Jamo” Goldstein",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I appreciate that Jamo is running in the election this year. As I have been a huge proponent of moving Boulder’s municipal elections to even years and paying our council-people a reasonable wage (I was a co-lead on campaigns for these issues), it’s encouraging to see a 21-year-old student at CU running on the ballot.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "While I don’t think Jamo is running a particularly progressive campaign (in opposing Boulder’s deferred maintenance plan, and previously having a position on his website that said car “parking is a human right”), I do appreciate his positions on removing Flock cameras and improving the city’s transportation with its Core Arterial Network (CAN) implementation.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I hope CU students continue to run for city council (which I think would be a more sensible choice than mayor) and use such campaigns to highlight city issues that directly affect students. While students may be here for only four or five years on average, the issues affecting students are ever-present. Although it’s a common belief in some circles (Boulder’s Nextdoor) that students greatly affect city elections, the turnout rate from CU students in off-years has typically ranged in the 15-25% (with ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "2025 as the last reference",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bouldercounty.maps.arcgis.com/apps/mapviewer/index.html?webmap=05ebdd931ff0490f972242d33a525d72"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ").",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "While students registered within Boulder are still a relatively small part of Boulder’s electorate, I do expect that we’ll have the largest change in the number of students voting in a municipal election since 1971. That year, the US ratified the 26th amendment and voters aged 18, 19, and 20 were able to vote for the first time. That election saw the first Black resident elected to Boulder City Council (Penfield Tate, who was selected as mayor), four incumbents unseated, and the city passed a charter amendment to limit building heights to 55 feet (",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Boulder County History: ’71 election unseated incumbents, brought height limit - Boulder Daily Camera",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.dailycamera.com/2017/03/26/boulder-county-history-71-election-unseated-incumbents-brought-height-limit/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ").",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Do I expect the 2026 election to be so disruptive to the status quo? No. But it’s certainly going to be different.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Aquiles La Grave",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Aquiles La Grave grew up in Boulder. While he has not been directly involved in city politics before last year, I had a number of questions about his candidacy and had wanted to share what I have researched.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "In 2012, La Grave was living in Louisville, Colorado and became involved in a local housing issue. La Grave was a founding member of the Louisville Citizens’ Action Council, which formed the year prior to oppose a planned set of apartments at the Safeway on South Boulder Road. In the article “",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "The deal is dead: Louisville evaluates its prospects at Safeway site",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.coloradohometownweekly.com/2012/06/07/the-deal-is-dead-louisville-evaluates-its-prospects-at-safeway-site/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "” in June 2012: ",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Aquiles La Grave, a 10-year resident whose home is just north of the Village Square shopping center, said he and his neighbors want more than anything to see something replace the 55,000-square-foot building that housed the Safeway for 30 years. But it has to be the right project.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "“We want to make sure that what goes in there doesn’t degrade our quality of life,” he said. “An empty Safeway is not impacting our neighborhood in any way except aesthetically — so we can be patient.”",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "The opposition delayed re-development of the empty shopping center by 12+ months, reducing the amount of housing proposed by nearly 40%. Through the process, the plan also included an Alfalfa’s grocery store at the reduced-housing site (",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Developer, Alfalfa’s president present Safeway redevelopment plan",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.coloradohometownweekly.com/2012/09/22/developer-alfalfas-president-present-safeway-redevelopment-plan/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "):",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Faun Ellwood-Digel, who has lived in Louisville for 15 years, said she would prefer to see an even more scaled back development of the apartment complex — fewer than 100 units — but bringing in the grocer makes for a “reasonable tradeoff” for upwards of 120 units.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "As you may know, Alfalfa’s closed that location and ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "its business entirely in 2021",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.dailycamera.com/2013/07/02/alfalfas-anchored-development-in-louisville-gets-final-ok/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ". Unfortunately, neither the reduced housing nor the closure of the grocery store were good outcomes from Louisville.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "You might be saying, that was almost fifteen years ago — how is that story relevant to what’s happening in Boulder today? I have been disturbed by a continued pattern I see of opposition to housing and development in Boulder. Here is a Facebook post from La Grave in August:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-28fbb069-b576-4af7-a256-123094f985a6.png",
+    "width": 542,
+    "height": 1278,
+    "title": "",
+    "alt": "Screenshot of Boulder mayoral candidate Aquiles La Grave's August Facebook post about the former Alfalfa's site development in Louisville",
+    "caption": "",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "For reference, Boulder’s Alpine Balsam project will have both a consolidation of city office buildings as well as significant housing (144 city subsidized affordable units — which as far as I understand would be the largest single development of affordable units yet in Boulder). In my opinion, La Grave’s accusations that that city may have misused affordable housing funds on this site are misinformation that undermine confidence in the city’s ability to complete the buildout of the city offices as well as provide this housing that Boulder certainly needs.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "In September, I saw another concerning post from La Grave on Nextdoor. I referenced earlier that the Boulder Valley School District ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "put out a plan",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://boulderreportinglab.org/2026/08/25/bvsd-proposes-closing-four-elementary-schools-in-sweeping-consolidation-plan/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " in late August to potentially close several schools in the Boulder area due to declining enrollment. La Grave’s “just asking questions” post on Nextdoor insinuates that the school district may be intending to close Flatirons elementary such that it could build residential housing on a school property that would not be subject to local zoning.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "A post like this is simply intended to scare voters on Nextdoor who have NIMBY-ish tendencies and would certainly find such a plan concerning — at a time when everyone is rightly concerned about school closings. However, BVSD rarely divests in school properties (the last time was ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Washington School in 2009",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.dailycamera.com/2009/08/13/washington-elementary-deal-approved/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " which was sold to a co-housing developer) and such discussion was not part of any school closure plan.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-639bea81-6475-4cf3-980c-26c062724344.jpeg",
+    "width": 1440,
+    "height": 1956,
+    "title": "",
+    "alt": "Screenshot of Boulder mayoral candidate Aquiles La Grave's September Nextdoor post about Boulder Valley school closures",
+    "caption": "",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Additionally, in the past year, La Grave has been involved with redevelopment of the Boulder County North Broadway Complex attached to the Iris Ballfields. La Grave has been working with the committee “Save Iris Ballfields” in order to have the ballfields remain as part of any redevelopment proposal there.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Boulder Reporting Lab documented the ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Boulder County site sales proposals in 2025",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://boulderreportinglab.org/2025/11/11/save-iris-fields-boulder-community-backed-plan-clashes-with-48-million-housing-bid/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ". Here are the top two of five proposals:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 9,
+            "mode": "normal",
+            "style": "",
+            "text": "1333 Iris Avenue Acquisition LLC",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.sos.state.co.us/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&nameTyp=ENT&masterFileId=20258025850&entityId2=20258025850&fileId=20258025850&srchTyp=ENTITY"
+      },
+      {
+        "detail": 0,
+        "format": 1,
+        "mode": "normal",
+        "style": "",
+        "text": " (John Kirkland)",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Offer:",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " $43 million",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Use:",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Housing, including an estimated 200+ affordable units ",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Would it preserve the ball fields?:",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " No",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 9,
+            "mode": "normal",
+            "style": "",
+            "text": "The Academy",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://academyboulder.com/"
+      },
+      {
+        "detail": 0,
+        "format": 9,
+        "mode": "normal",
+        "style": "",
+        "text": " ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "detail": 0,
+        "format": 1,
+        "mode": "normal",
+        "style": "",
+        "text": "(",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "detail": 0,
+        "format": 3,
+        "mode": "normal",
+        "style": "",
+        "text": "endorsed by the North Boulder Little League",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "detail": 0,
+        "format": 1,
+        "mode": "normal",
+        "style": "",
+        "text": ")",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Offer: ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "$26 million",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Use:",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Senior living community",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Would it preserve the ball fields?:",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Yes",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "So, there are a number of factors here at play:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "How much money Boulder County will make from the sale of property, which directly affects county budgets",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "How much housing will be built (and its relative affordability) on a site that supports lots of housing on a primary transit corridor",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Whether or not the ballfields would be preserved (which many in the community find to be a community value)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Boulder County ultimately chose La Grave’s preferred proposal from The Academy, a senior housing developer. The opportunity costs for that move were a $17 million reduction from the county budget, and a greatly reduced amount and type of housing built at the site, while keeping the Iris Ballfields. Were there potentially other options that raised more money for Boulder County, built more housing, and still preserved the ballfields? Yes, quite possibly — but these were the options presented.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Whether or not you think that the City and County of Boulder should have preserved the Iris Ballfields (which certainly do have a community benefit), I have a lot of trouble with the consistent pattern in La Grave’s activism and campaign messaging. He’s running on a campaign of governance and financial stewardship, taking opportunities to lambast the city and staff over housing projects at Alpine Balsam and vehemently fighting against the City of Boulder 2K measure that would fund deferred maintenance on city buildings.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "At the same time, Boulder still has significant affordable housing needs and budget challenges that I don’t believe La Grave’s approaches are suited to fixing. I believe his inexperience at dealing with the real issues that the city faces (and particularly that he is running for mayor rather than for city council) are not going to help Boulder emerge strongly through this next chapter.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Lastly, La Grave recently made a post on October 2nd in which he undermines the City of Boulder’s excellent ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "public matching funds program",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bouldercolorado.gov/election-guidelines"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " for elections in order to make an attack on the current mayor. I’m a strong believer in public matching funds as a way to help level the playing field for candidates with less financial means, and I also used matching funds when I ran for Boulder City Council in 2017.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Per the City of Boulder, the ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "limitations are as follows",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bouldercolorado.gov/election-guidelines"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ", in order to maintain integrity in our elections and not have them overrun by massive spending imbalances and corporate funding. It also aligns the city and candidates with good incentives for campaigns:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "To accept only contributions from a natural person (no LLCs, non-profits, corporations, etc.).",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "To limit her or his expenditures to a predetermined expenditure limit. Candidate expenditures, expenditures by the candidate’s official campaign committee, and any coordinated expenditures with other persons all apply toward this expenditure limit. [Note: in 2026, this limit is approximately $25,000]",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "To contribute to her/his campaign no more than 20% of the expenditure limit from her/his own personal wealth. (This includes both monetary and non-monetary contributions.)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "To return at least 50% of any unexpended funds to the city, but not more than the matching funds received.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "In return, candidates also have a strong incentive to take matching funds: the city offers a one-to-one match for each donation. As donations are limited to $100 per person, campaigns with lots of grassroots support can definitely be competitive even if they don’t have wealthy donors.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-384c2842-b989-48f8-a6ca-6b026a3878d6.png",
+    "width": 1206,
+    "height": 1478,
+    "title": "",
+    "alt": "City of Boulder campaign finance rules showing contribution limits and public matching funds for candidates",
+    "caption": "",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I have a number of issues with this framing and such disingenuous attacks make it very difficult to trust a candidate.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Asserting that a candidate “took” money from taxpayers by using a city-sponsored system is a bad-faith attack on a candidate and our city.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The vast majority of candidates (and especially winning candidates) take public matching funds. The last significant candidate not to take matching funds was Bob Yates running for Mayor in 2023: (",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "In the race for Boulder mayor, Councilmember Bob Yates has raised more money than all his rivals combined",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2023/09/29/in-the-race-for-boulder-mayor-councilmember-bob-yates-has-raised-more-money-than-all-his-rivals-combined/"
+          },
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ")",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A significant limitation in taking matching funds is that the candidate cannot self-fund their own campaign more than a few thousand dollars. However, La Grave does not have that limitation, and would be free to spend tens of thousands of dollars on his own campaign in the last few weeks. Personally financing a campaign can have a significant effect on the outcome, as a CU Regent candidate ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "spent over $100,000 of his own money",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boulderreportinglab.org/2026/06/28/boulder-cu-regent-race-sees-endorsement-switch-apology-after-reddit-controversy/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " in the June 2026 Primary, much of that in the final weeks of the race.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Also, in not taking matching funds, a candidate like La Grave is not bound by the strict ~$25k expenditure limit. Notably, La Grave has already donated $10,000 to the ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Big Tent BoCo",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/ContributionSearch.aspx"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " [Five Commissioners] initiative in 2026, so it is not unreasonable that he may consider additionally self-funding his campaign. When he posted above the graphic to Reddit, ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "multiple",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.reddit.com/r/boulder/comments/1wvzrom/comment/pdgwcdy/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "people",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.reddit.com/r/boulder/comments/1wvzrom/comment/pdheq77/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " asked if he would abide by the spending limit that candidates with matching funds agree to. La Grave did not answer those questions while answering several others in the thread.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Additional Reporting, Commentary, and Sources",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "2026 Municipal Election Information",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://bouldercolorado.gov/services/voting-and-election-information"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — City of Boulder (official)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "2026 Boulder mayoral race coverage",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/tag/boulder-mayor/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Meet the 19 candidates running for Boulder mayor and City Council in 2026",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/2026/08/30/meet-the-19-candidates-running-for-boulder-mayor-and-city-council-in-2026/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Meet (most of) the people running for Boulder City Council and mayor",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.dailycamera.com/2026/08/27/boulder-city-council-candidates-issues/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Daily Camera",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Two More Mayoral Candidates",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://richardvalenty.com/2026/09/two-more-mayoral-candidates/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Richard Valenty",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Adams: We're in Polycrisis Mode",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://richardvalenty.com/2026/09/adams-were-in-polycrisis-mode/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Richard Valenty",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Taishya Adams candidate profile",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/govpack_profiles/taishya-adams-2/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 7
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Brockett: Wants to Finish Strong",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://richardvalenty.com/2026/09/brockett-wants-to-finish-strong/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Richard Valenty",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 8
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Aaron Brockett candidate profile",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/govpack_profiles/aaron-brockett-2/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 9
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Meet the CU Boulder student running to be city's next mayor",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.dailycamera.com/2026/09/18/jameson-jamo-goldstein-cu-boulder-mayor/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Daily Camera",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 10
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "“Jamo” Goldstein: Careful with that Credit Card, Boulder",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://richardvalenty.com/2026/09/jamo-goldstein-careful-with-that-credit-card-boulder/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Richard Valenty",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 11
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Jameson (Jamo) Goldstein candidate profile",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/govpack_profiles/jamo-goldstein/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 12
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Grateful Fred Instead candidate profile",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/govpack_profiles/fred-smith/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 13
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Boulder clerk absolves mayoral candidate of most allegations",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.dailycamera.com/2026/09/21/aquiles-la-grave-boulder-mayor-campaign/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Daily Camera",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 14
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "La Grave: Re-envision the Role of the Mayor",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://richardvalenty.com/2026/09/la-grave-re-envision-the-role-of-the-mayor/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Richard Valenty",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 15
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Aquiles La Grave candidate profile",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/govpack_profiles/aquiles-la-grave/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 16
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  }
+]

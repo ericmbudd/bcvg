@@ -1,0 +1,1227 @@
+[
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "SHALL STATE TAXES BE INCREASED $2.7 BILLION ANNUALLY, IN ORDER TO INCREASE OR IMPROVE LEVELS OF PUBLIC SERVICES, INCLUDING K-12 PUBLIC SCHOOL EDUCATION, HEALTH CARE, AND EARLY CHILD CARE AND EDUCATION SERVICES, BY AN AMENDMENT TO THE COLORADO CONSTITUTION AND A CHANGE TO THE COLORADO REVISED STATUTES REPEALING EXISTING LAW AND CREATING NEW LAW TO REPLACE THE UNIFORM STATE INCOME TAX RATE WITH A GRADUATED INCOME TAX STRUCTURE, AND, IN CONNECTION THEREWITH, AMENDING THE TAXPAYER'S BILL OF RIGHTS TO ELIMINATE THE CONSTITUTIONAL REQUIREMENT FOR ALL TAXABLE NET INCOME TO BE TAXED AT ONE RATE WITH NO ADDED TAX ON INCOME; ESTABLISHING VARIOUS INCOME TAX RATES BASED ON THE AMOUNT OF TAXABLE INCOME EARNED BY INDIVIDUALS, ESTATES, TRUSTS, AND CORPORATIONS, WHILE MAINTAINING THE CURRENT 4.4% TAX ON INCOME FROM THE SALE OF A PRINCIPAL RESIDENCE, WHICH WILL RESULT IN THE ESTIMATED CHANGE IN INCOME TAXES OWED BY INDIVIDUALS AS IDENTIFIED IN THE FOLLOWING TABLE; AND AUTHORIZING THE STATE TO RETAIN AND SPEND ANY INCREASED REVENUE FROM THE NEW TAX STRUCTURE, AS A VOTER-APPROVED REVENUE CHANGE, TO SUPPLEMENT CURRENT LEVELS OF FUNDING FOR K-12 PUBLIC SCHOOL EDUCATION, HEALTH CARE, AND EARLY CHILD CARE AND EDUCATION PROGRAMS?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Position: Yes / For",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Who put the measure on the ballot?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Amendment 87 was placed on the ballot through a citizen initiative backed by the progressive, research-focused ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Bell Policy Center ",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bellpolicy.org/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "and ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "New Era Colorado",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://neweracolorado.org/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ".",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Short Description:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Replaces Colorado's flat individual income-tax rate with a graduated-rate structure and increases state taxes by an estimated $2.7 billion annually. The law would direct additional revenue to K-12 education, health care, and early child care and education. Amendment 87 conflicts with Proposition 136, which caps the income tax rate at 4.4%. If both measures pass, Colorado's rules governing conflicting measures would apply.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Analysis and Commentary:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Support. Amendment 87 was placed on the ballot through a citizen initiative backed by the progressive, research-focused ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Bell Policy Center ",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bellpolicy.org/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "and ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "New Era Colorado",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://neweracolorado.org/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ".",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Amendment 87 is the single-most important measure in the state’s history to make Colorado’s income tax and overall budget more progressive and fair for everyone. As we get deeper into Amendment 87, I must mention that if you support this measure, you must also vote against Proposition 136, which would prevent the law from taking effect.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Here’s what you need to know about Amendment 87:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "97% of taxpayers (those earning under $500,000 a year) will see their taxes reduced",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "State taxable income above the first $500,000 will be taxed at a higher rate",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The new revenue raised can only be used for K-12 schools, health care, and child care",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "When Colorado passed TABOR in 1992, the amendment included a line in the state constitution that said “all taxable net income to be taxed at one rate,” (",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Section 20. THE TAXPAYER’S BILL OF RIGHTS",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://advance.lexis.com/documentpage/?pdmfid=1000516&crid=b75fd404-e45d-46e3-b86c-ef7854525028&nodeid=AABAALAAW&nodepath=%2FROOT%2FAAB%2FAABAAL%2FAABAALAAW&level=3&haschildren=&populated=false&title=Section+20.+THE+TAXPAYER%E2%80%99S+BILL+OF+RIGHTS&config=0143JAAwODgxYWIyNi1mNGJlLTQwYmItYmE4Ni0yOWY2NzQzMjE3MTAKAFBvZENhdGFsb2ecqetP0coiYGhC4QCG46NJ&pddocfullpath=%2Fshared%2Fdocument%2Fstatutes-legislation%2Furn%3AcontentItem%3A61VF-9YD1-DYDC-J53M-00008-00&ecomp=6gf5kkk&prid=4c215efd-9971-41a1-aa1c-7a1d9c2f51a0"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ") locking in a regressive income tax system for the past 30+ years. That meant that whether you were making $30,000 a year or $3,000,000 per year, you would pay the same 4.4% of your income in tax to the State of Colorado. Such a system makes it more difficult for people with median or lower incomes to afford basic necessities like housing, transportation, child care, and food. But also in recent years, it means that as inequality has grown, we are also starving our state budget which needs to provide basic services like public schools, health care, and child care. Amendment 87 intends to address this problem directly.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Here is a table from the ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Colorado Blue Book for Amendment 87",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://bouldercoloradovoterguide.com/content/files/2026/09/amendment-87-graduated-income-tax.pdf"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": " that outlines income brackets and the marginal income tax rate for each bracket based on current policy and the proposed new rate: ",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-9403cdfe-b9ce-4fcb-9f9e-c8c7ecf0f52d.png",
+    "width": 1295,
+    "height": 455,
+    "title": "",
+    "alt": "Colorado Blue Book table showing Amendment 87 graduated income tax brackets and marginal tax rates",
+    "caption": "",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Based on previous tax analysis, 97% of taxpayers would receive a tax cut under this new system. If you prefer to check for yourself without calculating each marginal tax rate bracket by hand, use the ",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Colorado Sun Graduated Income Tax calculator",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://coloradosun.com/2026/09/03/colorado-initiative-195-graduated-income-tax-calculator/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "!",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Aside from basic tax fairness, Colorado really needs to pass Amendment 87 in order to address repeated, billion-dollar budget shortfalls. Here are a few reasons we have a structural deficit:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Repeated income tax cuts put on the ballot from ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Advance Colorado",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "http://whoisadvancecolorado.com/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". The group ran Proposition 116 in 2020 that reduced Colorado's flat individual and corporate income tax rate from 4.63% to 4.55%, and in 2022 Proposition 121 reduced the rate further from 4.55% to 4.40%.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Federal Republicans passed the One Big Beautiful Bill in 2025, which led to a ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "massive $1 billion budget shortfall for Colorado",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://coloradonewsline.com/2025/07/30/colorado-state-budget-faces-1b-shortfall-in-wake-of-republicans-federal-policy-bill/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " due to losing federal funds, particularly from “Medicaid and the Supplemental Nutrition Assistance Program”",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In 2026, the ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "challenges for Colorado’s budget ",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://coloradonewsline.com/2026/03/19/colorado-state-budget-shortfall-expands-to-1-5-billion/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "have compounded, up to $1.5 billion, precipitating further cuts to Medicaid.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In September 2026, new reporting shows that ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "Colorado’s budget deficit will grow",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://coloradonewsline.com/2026/09/18/colorado-lawmakers-massive-budget-shortfall/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " even further in 2027, to $1.6 billion",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "The status quo in Colorado’s budget and revenue situation cannot sustain on this path, and Amendment 87 is a big step to fixing the problem.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Additional Reporting, Commentary, and Sources",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Amendment 87: Graduated Income Tax",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://bouldercoloradovoterguide.com/content/files/2026/09/amendment-87-graduated-income-tax.pdf"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Blue Book",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "How the ballot proposal to overhaul Colorado taxes could change your tax bill — and who pays more",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.denverpost.com/2026/09/20/colorado-amendment-87-graduated-income-tax/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Denver Post",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Colorado voters face dueling income tax measures on November ballot",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.9news.com/article/news/politics/elections/colorado-voters-income-tax-measures-november-ballot/73-80d69040-f41b-42db-998f-a8279c414fa2"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — 9News",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Calculate how your Colorado income tax bill would change if Amendment 87 passes",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://coloradosun.com/2026/09/03/colorado-initiative-195-graduated-income-tax-calculator/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Sun",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Lawsuit seeks to remove Colorado graduated income tax measure from ballot",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.coloradopolitics.com/2026/09/22/graduated-tax-measure-faces-lawsuit-seeking-removal-from-november-ballot/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Politics",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Big change for Colorado income tax makes ballot, which is now all but set for November",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.denverpost.com/2026/09/01/colorado-graduated-income-tax-ballot-measures/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Denver Post",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Backers of Colorado's graduated income tax ballot measure race to collect final voter signatures before Monday",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://coloradosun.com/2026/08/01/graduated-income-tax-ballot-measure-colorado/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Sun",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 7
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "The Math Don’t Work: Colorado’s Budget Crisis, Explained with Toasters and Sadness",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer",
+            "target": null,
+            "title": null,
+            "url": "https://coloradofiscal.org/the-math-dont-work-colorados-budget-crisis-explained-with-toasters-and-sadness/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Fiscal Institute",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 8
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "GUEST OPINION: Graduated tax pushes back on growing inequality",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://www.denvergazette.com/2026/09/20/graduated-tax-pushes-back-on-growing-inequality-opinion/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Denver Gazette (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 9
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Littwin: Can Coloradans really refuse Amendment 87 and its tax-the-rich, cut-taxes-for-everyone-else promise?",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://coloradosun.com/2026/09/13/amendment-87-taxes-opinion-littwin/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Colorado Sun (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 10
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  }
+]

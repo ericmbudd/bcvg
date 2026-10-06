@@ -1,0 +1,826 @@
+[
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "If the membership of the Boulder County Board of Commissioners is increased from a three member board to a five member board, by what method shall the Boulder County Board of Commissioners be elected? (Vote for One)",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-quote",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Who put the measure on the ballot?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Short Description:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "A conditional question that only takes effect if Question 200 passes: should all five commissioners be elected by voters in their respective districts, or should three district-elected commissioners be joined by two commissioners elected countywide?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Analysis and Commentary:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Option B. Boulder County Measure 201 was placed on the ballot through a citizen initiative backed by a group of more centrist Boulder County called “",
+        "type": "extended-text",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 8,
+            "mode": "normal",
+            "style": "",
+            "text": "Big Tent Boulder",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "link",
+        "version": 1,
+        "rel": null,
+        "target": null,
+        "title": null,
+        "url": "https://www.bigtentboco.org/"
+      },
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": ".”",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "I am voting for Option B. If Boulder County voters pass Boulder County measure 200, then Boulder County measure 201 will determine how moving to five commissioners will be implemented.",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Possible Option A:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Should all five commissioners be elected by voters in their respective districts?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-166c0cfa-3ca4-4e71-acfc-479d34708ee6.png",
+    "width": 917,
+    "height": 735,
+    "title": "",
+    "alt": "Map of Boulder County's three current county commissioner districts",
+    "caption": "",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Above is a map of the current three Boulder County Commissioner districts. Here are a number of problems with creating five districts:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Boulder County has three population centers. It’s not clearly possible to map these three population centers onto five districts without interspersing districts and breaking up communities of interest.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Here’s a quick effort I made to create five districts using a helpful tool called Districtr. Here’s ",
+            "type": "extended-text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 8,
+                "mode": "normal",
+                "style": "",
+                "text": "a link to my map",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://districtr.org/coi/138091"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". There are probably a few variations you could attempt here, but the typical district needs to be approximately 66k people, while Boulder itself is a little more than 100k in population and so is Longmont. So already, you likely have Boulder and Longmont more represented than other parts of the county, while breaking up those communities of interest. ",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I wanted to bring in an argument from a piece against the county commissioner change:",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Increasing the number of commissioners won’t provide greater representation for geographic groups that feel underrepresented. At just 46,000 total residents, there aren’t enough residents in all of unincorporated Boulder County to create a district dedicated just to them. Nor could there be a district dedicated to mountain residents, with the combined population of Nederland, Allenspark, Lyons, Jamestown, Gold Hill and Ward only about 5,000 people.",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 1
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 8,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "Five current and former Boulder County commissioners: Don’t expand the commission to five seats",
+                        "type": "extended-text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": "ltr",
+                    "format": "",
+                    "indent": 0,
+                    "type": "link",
+                    "version": 1,
+                    "rel": null,
+                    "target": null,
+                    "title": null,
+                    "url": "https://boulderreportinglab.org/2026/02/15/five-current-and-former-boulder-county-commissioners-dont-expand-the-commission-to-five-seats/"
+                  },
+                  {
+                    "detail": 0,
+                    "format": 8,
+                    "mode": "normal",
+                    "style": "",
+                    "text": " — Boulder Reporting Lab",
+                    "type": "extended-text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 1,
+                "type": "listitem",
+                "version": 1,
+                "value": 2
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "list",
+            "version": 1,
+            "listType": "bullet",
+            "start": 1,
+            "tag": "ul"
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Commissioners in five districts have incentives to be insular in their thinking — putting the needs of the people in their own district above the county’s needs as a whole. ",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Single-winner districts means that the county may miss out on the service of good candidates because there can only be one winner per district. It also means that in some cycles, there may be a lack of good candidates in a particular district. These problems are mitigated by having both larger districts and at-large seats.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 5
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "If you also think Option A is a bad outcome, you should really consider not voting in favor of Measure 200 to move to five commissioners.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 6
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "type": "image",
+    "version": 1,
+    "src": "https://bouldercoloradovoterguide.com/content/images/2026/10/data-src-image-c236c048-3b74-41ad-b25f-c3cced882627.png",
+    "width": 936,
+    "height": 657,
+    "title": "",
+    "alt": "Draft map dividing Boulder County into five commissioner districts for Question 201",
+    "caption": "",
+    "cardWidth": "regular",
+    "href": ""
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Possible Option B:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Should three district-elected commissioners be joined by two commissioners elected countywide?",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Here are my arguments for three districts, and two at-large:",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "paragraph",
+    "version": 1
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "For someone like me who is skeptical of the benefits of five commissioners, moving to three districts, two at-large would be a smaller change from the current system. The same existing districts could be used for the new system, which are relatively aligned with Boulder County’s population centers",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Right now all Boulder County residents get to vote on all commissioners, three in total. In the five district system, each person would only get to vote on one commissioner, which is a significant downgrade in influence. In Option B, people would still get to vote for three of five commissioners — one in their own district, and two at-large",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In having both districts and at-large, potential candidates can weigh which is a better fit for themselves based on their geographical location, experience in elected office, and relationships across the county.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "When two strong candidates live in the same district, one may choose to run at-large. That can be a benefit to the county to have both as options for election. As I have mentioned, even with five districts, Boulder or Longmont would very likely have two people representing each city because these population centers would be split. With an at-large system, you might still get two commissioners from the same city, but they won’t be strictly eligible in one district based on a district barrier.",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  },
+  {
+    "children": [
+      {
+        "detail": 0,
+        "format": 0,
+        "mode": "normal",
+        "style": "",
+        "text": "Additional Reporting, Commentary, and Sources",
+        "type": "extended-text",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "extended-heading",
+    "version": 1,
+    "tag": "h2"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Boulder Progressives Announces 2026 Ballot Measure Positions, Endorses Jamillah Richmond for Boulder City Council",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://yellowscene.com/2026/09/20/boulder-progressives-announces-2026-ballot-measure-positions-endorses-jamillah-richmond-for-boulder-city-council/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Yellow Scene Magazine",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Five current and former Boulder County commissioners: Don't expand the commission to five seats",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/2026/02/15/five-current-and-former-boulder-county-commissioners-dont-expand-the-commission-to-five-seats/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 2
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Masyn Moyer and Tina Mueh: It's time for five Boulder County commissioners",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://boulderreportinglab.org/2026/03/01/masyn-moyer-and-tina-mueh-its-time-for-five-boulder-county-commissioners/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Boulder Reporting Lab (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 3
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Annmarie Jensen: Ballot Measure Announcements and Recommendations",
+                "type": "extended-text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "version": 1,
+            "rel": "noreferrer noopener",
+            "target": "_blank",
+            "title": null,
+            "url": "https://yellowscene.com/2026/09/24/annmarie-jensen-ballot-measure-announcements-and-recommendations/"
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — Yellow Scene Magazine (opinion)",
+            "type": "extended-text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "listitem",
+        "version": 1,
+        "value": 4
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "list",
+    "version": 1,
+    "listType": "bullet",
+    "start": 1,
+    "tag": "ul"
+  }
+]
